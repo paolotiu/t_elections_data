@@ -1,0 +1,808 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1509147039279448066",
+                  "sortIndex": "1726982005075164336",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1509147039279448066",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjozMzA4MjY3OTI=",
+                                "rest_id": "330826792",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "rappler.com",
+                                          "expanded_url": "http://www.rappler.com",
+                                          "url": "https://t.co/81BJWWR4KN",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 7799,
+                                  "followers_count": 3722682,
+                                  "friends_count": 431,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 4943,
+                                  "location": "Philippines",
+                                  "media_count": 245240,
+                                  "name": "Rappler",
+                                  "normal_followers_count": 3722682,
+                                  "pinned_tweet_ids_str": ["1701551287421284398"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "rapplerdotcom",
+                                  "statuses_count": 1028659,
+                                  "translator_type": "regular",
+                                  "url": "https://t.co/81BJWWR4KN",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1453298946147856390",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 580,
+                                      "name": "Media & News Company",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/8GluUJ6b7W",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "player_url",
+                                  "value": {
+                                    "string_value": "https://www.youtube.com/embed/n6L8u7eZ_6A",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "player_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 197,
+                                      "width": 351,
+                                      "url": "https://pbs.twimg.com/cards/player-placeholder.png"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "player_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 197,
+                                      "width": 351,
+                                      "url": "https://pbs.twimg.com/cards/player-placeholder.png"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "app_star_rating",
+                                  "value": {
+                                    "string_value": "4.67785",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "Subscribe: https://www.youtube.com/@Rappler/More videos on Rappler: https://www.rappler.com/video 40 days to go until Elections Day! John Nery talks to Cavit...",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "player_width",
+                                  "value": {
+                                    "string_value": "1280",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.youtube.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "app_is_free",
+                                  "value": {
+                                    "string_value": "true",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "10228272",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "app_num_ratings",
+                                  "value": {
+                                    "string_value": "33,512,602",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "app_price_amount",
+                                  "value": {
+                                    "string_value": "0.0",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "player_height",
+                                  "value": {
+                                    "string_value": "720",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "youtube.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "app_name",
+                                  "value": {
+                                    "string_value": "YouTube: Watch, Listen, Stream",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "player_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 197,
+                                      "width": 351,
+                                      "url": "https://pbs.twimg.com/cards/player-placeholder.png"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "On The Campaign Trail with John Nery: How the presidency will be won",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "app_price_currency",
+                                  "value": {
+                                    "string_value": "USD",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/8GluUJ6b7W",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "player_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 197,
+                                      "width": 351,
+                                      "url": "https://pbs.twimg.com/cards/player-placeholder.png"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "player",
+                              "url": "https://t.co/8GluUJ6b7W",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoxMDIyODI3Mg==",
+                                    "rest_id": "10228272",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Square",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "like and subscribe.",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "youtube.com",
+                                              "expanded_url": "http://youtube.com",
+                                              "url": "https://t.co/bUisN3Y1A6",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 6174,
+                                      "followers_count": 79559745,
+                                      "friends_count": 1175,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 79795,
+                                      "location": "San Bruno, CA",
+                                      "media_count": 15724,
+                                      "name": "YouTube",
+                                      "normal_followers_count": 79559745,
+                                      "pinned_tweet_ids_str": [],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1697646656",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "YouTube",
+                                      "statuses_count": 57067,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/bUisN3Y1A6",
+                                      "verified": false,
+                                      "verified_type": "Business",
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1509147039279448066"],
+                            "editable_until_msecs": "1648645467417",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Wed Mar 30 12:34:27 +0000 2022",
+                            "conversation_id_str": "1509138829134872581",
+                            "display_text_range": [42, 312],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "771668400",
+                                  "name": "John Nery",
+                                  "screen_name": "jnery_newsstand",
+                                  "indices": [0, 16]
+                                },
+                                {
+                                  "id_str": "1236128580922273792",
+                                  "name": "Rufus B. Rodriguez",
+                                  "screen_name": "RepRufus",
+                                  "indices": [17, 26]
+                                },
+                                {
+                                  "id_str": "717716672",
+                                  "name": "Jonvic Remulla",
+                                  "screen_name": "jonvicremulla",
+                                  "indices": [27, 41]
+                                },
+                                {
+                                  "id_str": "1236128580922273792",
+                                  "name": "Rufus B. Rodriguez",
+                                  "screen_name": "RepRufus",
+                                  "indices": [43, 52]
+                                }
+                              ],
+                              "urls": [
+                                {
+                                  "display_url": "youtu.be/n6L8u7eZ_6A",
+                                  "expanded_url": "http://youtu.be/n6L8u7eZ_6A",
+                                  "url": "https://t.co/8GluUJ6b7W",
+                                  "indices": [289, 312]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [263, 270],
+                                  "text": "PHVote"
+                                },
+                                {
+                                  "indices": [271, 280],
+                                  "text": "WeDecide"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 20,
+                            "favorited": false,
+                            "full_text": "@jnery_newsstand @RepRufus @jonvicremulla .@RepRufus: I believe generally that this is a very crucial election. There is a mass support in selecting the best president, and as we go along, it will be clear that the best president for the country is Leni Robredo. #PHVote #WeDecide\n\nWATCH: https://t.co/8GluUJ6b7W",
+                            "in_reply_to_screen_name": "rapplerdotcom",
+                            "in_reply_to_status_id_str": "1509146517675814913",
+                            "in_reply_to_user_id_str": "330826792",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 1,
+                            "retweet_count": 2,
+                            "retweeted": false,
+                            "user_id_str": "330826792",
+                            "id_str": "1509147039279448066"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 263,
+                            "endIndex": 270
+                          },
+                          {
+                            "startIndex": 271,
+                            "endIndex": 280
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACCxznhdoi2DIKAAV5EArpZYRJ3AgABgAAAAEKAAd+g0ZrE0rZHQAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1509118260377440260",
+                  "sortIndex": "1726982005075164326",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1509118260377440260",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoyNTk5OTgwMTg=",
+                                "rest_id": "259998018",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Thu Mar 03 00:49:57 +0000 2011",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Multi-platform journalist. One of the news chasers of ABS-CBN. Mentor in jeans \uD83D\uDC56",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 3230,
+                                  "followers_count": 36334,
+                                  "friends_count": 1257,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 103,
+                                  "location": "manila",
+                                  "media_count": 4896,
+                                  "name": "sherrie ann torres",
+                                  "normal_followers_count": 36334,
+                                  "pinned_tweet_ids_str": ["1695222837219660250"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/259998018/1568866004",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132505197920436224/-lilPHND_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "sherieanntorres",
+                                  "statuses_count": 14782,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1509118260377440260"],
+                            "editable_until_msecs": "1648638605992",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Wed Mar 30 10:40:05 +0000 2022",
+                            "conversation_id_str": "1509118260377440260",
+                            "display_text_range": [0, 151],
+                            "entities": {
+                              "media": [
+                                {
+                                  "display_url": "pic.twitter.com/ZqrVdmoqVQ",
+                                  "expanded_url": "https://twitter.com/sherieanntorres/status/1509118260377440260/video/1",
+                                  "id_str": "1509117601515212803",
+                                  "indices": [152, 175],
+                                  "media_key": "7_1509117601515212803",
+                                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509117601515212803/pu/img/MUgR_sOMB1YXV3CE.jpg",
+                                  "type": "video",
+                                  "url": "https://t.co/ZqrVdmoqVQ",
+                                  "additional_media_info": {
+                                    "monetizable": false
+                                  },
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 720,
+                                      "w": 1280,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 675,
+                                      "w": 1200,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 383,
+                                      "w": 680,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "focus_rects": []
+                                  },
+                                  "video_info": {
+                                    "aspect_ratio": [16, 9],
+                                    "duration_millis": 45001,
+                                    "variants": [
+                                      {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1509117601515212803/pu/pl/_Rcpn0XKbOfsaIqP.m3u8?tag=12&container=fmp4"
+                                      },
+                                      {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1509117601515212803/pu/vid/480x270/xmY6bScVDGiQh2xa.mp4?tag=12"
+                                      },
+                                      {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1509117601515212803/pu/vid/640x360/JOo3tpMDyL8YoYBb.mp4?tag=12"
+                                      },
+                                      {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1509117601515212803/pu/vid/1280x720/71dX66wxIpbjBAc0.mp4?tag=12"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ],
+                              "user_mentions": [
+                                {
+                                  "id_str": "254098644",
+                                  "name": "Manny Pacquiao",
+                                  "screen_name": "MannyPacquiao",
+                                  "indices": [8, 22]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [139, 151],
+                                  "text": "Halalan2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "extended_entities": {
+                              "media": [
+                                {
+                                  "display_url": "pic.twitter.com/ZqrVdmoqVQ",
+                                  "expanded_url": "https://twitter.com/sherieanntorres/status/1509118260377440260/video/1",
+                                  "id_str": "1509117601515212803",
+                                  "indices": [152, 175],
+                                  "media_key": "7_1509117601515212803",
+                                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509117601515212803/pu/img/MUgR_sOMB1YXV3CE.jpg",
+                                  "type": "video",
+                                  "url": "https://t.co/ZqrVdmoqVQ",
+                                  "additional_media_info": {
+                                    "monetizable": false
+                                  },
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 720,
+                                      "w": 1280,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 675,
+                                      "w": 1200,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 383,
+                                      "w": 680,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "focus_rects": []
+                                  },
+                                  "video_info": {
+                                    "aspect_ratio": [16, 9],
+                                    "duration_millis": 45001,
+                                    "variants": [
+                                      {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1509117601515212803/pu/pl/_Rcpn0XKbOfsaIqP.m3u8?tag=12&container=fmp4"
+                                      },
+                                      {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1509117601515212803/pu/vid/480x270/xmY6bScVDGiQh2xa.mp4?tag=12"
+                                      },
+                                      {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1509117601515212803/pu/vid/640x360/JOo3tpMDyL8YoYBb.mp4?tag=12"
+                                      },
+                                      {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1509117601515212803/pu/vid/1280x720/71dX66wxIpbjBAc0.mp4?tag=12"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "favorite_count": 29,
+                            "favorited": false,
+                            "full_text": "Senator @MannyPacquiao gives flowers to his wife Jinkee while she's singing infront of the crowd inside the Baptist Church in Iloilo City. #Halalan2022 https://t.co/ZqrVdmoqVQ",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 1,
+                            "reply_count": 0,
+                            "retweet_count": 4,
+                            "retweeted": false,
+                            "user_id_str": "259998018",
+                            "id_str": "1509118260377440260"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 139,
+                            "endIndex": 151
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAIAAAAwAAgoAAQAAAAAAAAABCgACCxznhdoi2DIKAAV5EArpZYRJ3AgABgAAAAEKAAd+g0ZrE0rZHQAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_d4-9IAJxAKAAMX93j70f8VoAgABAAAAAELAAUAAAO8QUFBQUFDNk5zd2dBQUFCbEFBQUFBQUFBRlh3QUFBQUhBQUFBVm9DU0JEQVFBQ0JBRUFJUURBQUFBRUFZUUFBQUFJQUNnUUFBQUNnVUFBQUFJZ0NBQUNBQUFBQVFDQUFRQUtBQUFBQUFBQ0JBSUFRRUFRQUFsQUFBRUxBZ0FBQUFBREtJQVFBQkVCQ0FHSUFLSVFFQUFBZ0FJSUFXQWdBZ0FnSVlDQUFBUUFTTUFCQUFDQUFDd0FBQUNBWkFRSUFDREFFRUFnUkFBUWhBQUFCRkFBQmdBQUFBQk1LRVFJZ2dBUUFFQUFTQ1FJQmdBQUF4SXdFd0FBSUdBQ0lFaEJJQUFBQUNKQUpBSURBQUFnZ0NFQUFBQkFRQ0FSR0lBUUFnQUFCQUFDSUFRSVFBQUFBQUFvQ1JBQUFBWUVEQkFnQWdBSUFnQWdnd0lBRUFBQUFBQUFBaEFBSVFTQUFFSUJRUUJJQUFFaUVBQWlHb0FRTUFBRFFBQUFJQUFCQVFpR0FpQUFBQUFBR0FtQUFBQkFSSUFSQUNRQUFFR0lBQW1FQUFBQXdBVEFnSUJFQUFBZ0lRQVVBSWdFQUNnQUVJQUFBVUFDQUFBQmtBQUFBQVFCZ1FDVVVnRkFDa0FBQUFDSUlRS0VBUUFCQUVBQWdJQWNFQUFDQUFnQ1FMQUJBQUFDQUFBQUlDQkFDQUFBQUlBQVFTQUVRRUFBR2hBZ0FJQUFFUVdBaUFBQUFBQ0JFQUFnQUFBSUFEQUFSQUJBQ2lnQUFJUkRRQVVnUUFDSUJRd1VFQ0JFQUVBQUFBTUFDUUJUQUFvUkNBQ2dCQUlCRUFBWUFnQWdFQUdFRVFBRUNCZ1FCQVFBQkNCaEFnQUNBZ29FQUdRVUFBQUVDRUJBUVVBVklBU0tBUUJBQUFBSWdBOEFRQUNCSWdBa0FJaVJBa0FBQkFBSUNBQUFKa0FBRUlnQUFBQWdpZ0FFRUFEaGdBQUtBQ1FDQUFBcUF5Z0FJRUFDUUNCQUpBb2lBSUFBUUFBQVZBUUFBQUFCRE1BSW9Ka0JDQUFBQkJBQUlBb2dRQWlRRUNRQUFJQUVJQUFBQ0lBQ0FBZ0JVQ2dnRVVBSUNBQUFpQUFBRkNnQTBRb0FBQUFRQUF3SU1DQ0RCQVFCQUFBQVVCQUFBQUFJQ01DQUlnQW9rbFlnQUpBQUFJQklZRkFBZ0N3QUlJQUFJZ0JBQUFHQUlKQ1FCZ0FBQUJBa0NBQUlJZ0NBQUFFQUl3RVVCQUFEQVFBZ0lBQkNrQUFZVT0IAAYAAAAACAAHAAAABQwACAoAARTxdw_p2lAEAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_d4-9IAJxAKAAMX93j70f8VoAgABAAAAAILAAUAAAO8QUFBQUFDNk5zd2dBQUFCbEFBQUFBQUFBRlh3QUFBQUhBQUFBVm9DU0JEQVFBQ0JBRUFJUURBQUFBRUFZUUFBQUFJQUNnUUFBQUNnVUFBQUFJZ0NBQUNBQUFBQVFDQUFRQUtBQUFBQUFBQ0JBSUFRRUFRQUFsQUFBRUxBZ0FBQUFBREtJQVFBQkVCQ0FHSUFLSVFFQUFBZ0FJSUFXQWdBZ0FnSVlDQUFBUUFTTUFCQUFDQUFDd0FBQUNBWkFRSUFDREFFRUFnUkFBUWhBQUFCRkFBQmdBQUFBQk1LRVFJZ2dBUUFFQUFTQ1FJQmdBQUF4SXdFd0FBSUdBQ0lFaEJJQUFBQUNKQUpBSURBQUFnZ0NFQUFBQkFRQ0FSR0lBUUFnQUFCQUFDSUFRSVFBQUFBQUFvQ1JBQUFBWUVEQkFnQWdBSUFnQWdnd0lBRUFBQUFBQUFBaEFBSVFTQUFFSUJRUUJJQUFFaUVBQWlHb0FRTUFBRFFBQUFJQUFCQVFpR0FpQUFBQUFBR0FtQUFBQkFSSUFSQUNRQUFFR0lBQW1FQUFBQXdBVEFnSUJFQUFBZ0lRQVVBSWdFQUNnQUVJQUFBVUFDQUFBQmtBQUFBQVFCZ1FDVVVnRkFDa0FBQUFDSUlRS0VBUUFCQUVBQWdJQWNFQUFDQUFnQ1FMQUJBQUFDQUFBQUlDQkFDQUFBQUlBQVFTQUVRRUFBR2hBZ0FJQUFFUVdBaUFBQUFBQ0JFQUFnQUFBSUFEQUFSQUJBQ2lnQUFJUkRRQVVnUUFDSUJRd1VFQ0JFQUVBQUFBTUFDUUJUQUFvUkNBQ2dCQUlCRUFBWUFnQWdFQUdFRVFBRUNCZ1FCQVFBQkNCaEFnQUNBZ29FQUdRVUFBQUVDRUJBUVVBVklBU0tBUUJBQUFBSWdBOEFRQUNCSWdBa0FJaVJBa0FBQkFBSUNBQUFKa0FBRUlnQUFBQWdpZ0FFRUFEaGdBQUtBQ1FDQUFBcUF5Z0FJRUFDUUNCQUpBb2lBSUFBUUFBQVZBUUFBQUFCRE1BSW9Ka0JDQUFBQkJBQUlBb2dRQWlRRUNRQUFJQUVJQUFBQ0lBQ0FBZ0JVQ2dnRVVBSUNBQUFpQUFBRkNnQTBRb0FBQUFRQUF3SU1DQ0RCQVFCQUFBQVVCQUFBQUFJQ01DQUlnQW9rbFlnQUpBQUFJQklZRkFBZ0N3QUlJQUFJZ0JBQUFHQUlKQ1FCZ0FBQUJBa0NBQUlJZ0NBQUFFQUl3RVVCQUFEQVFBZ0lBQkNrQUFZVT0IAAYAAAAACAAHAAAABQwACAoAARTxdw_p2lAEAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

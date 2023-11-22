@@ -1,0 +1,1028 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1547060749423390720",
+                  "sortIndex": "1727230437371120336",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1547060749423390720",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjE5NDk0NDEzODI4NjQwNzY4",
+                                "rest_id": "1219494413828640768",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Tue Jan 21 05:39:05 +0000 2020",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Deliver The Charms and Halal of Japan\n\uD83C\uDF38Friendly resources on tourism, food & more in Japan\nGet Your MuslimFriendly\uD83C\uDDEF\uD83C\uDDF5 Bite Box Now\nhttps://t.co/0XdxYUXfJz",
+                                  "entities": {
+                                    "description": {
+                                      "urls": [
+                                        {
+                                          "display_url": "LaunchGood.com/japaneid",
+                                          "expanded_url": "http://LaunchGood.com/japaneid",
+                                          "url": "https://t.co/0XdxYUXfJz",
+                                          "indices": [130, 153]
+                                        }
+                                      ]
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "groovyjapan.com/en/",
+                                          "expanded_url": "https://www.groovyjapan.com/en/",
+                                          "url": "https://t.co/qAqwT4MH7R",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 1318,
+                                  "followers_count": 259,
+                                  "friends_count": 37,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 0,
+                                  "location": "Osaka, Japan",
+                                  "media_count": 356,
+                                  "name": "Salam Groovy Japan",
+                                  "normal_followers_count": 259,
+                                  "pinned_tweet_ids_str": ["1679702750165192705"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219494413828640768/1596676303",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413408319180476418/o9UYTZgZ_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "Salam_GJ",
+                                  "statuses_count": 2029,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/qAqwT4MH7R",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/CVlzumGm3J",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "Meet the processor and distributor of the best of freshest fish, IMARU IKAWA. Obtaining halal certification, the company began exporting its products to Malaysia and Singapore. Let's learn about",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.groovyjapan.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "1219494413828640768",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "groovyjapan.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "Halal tasty Japanese fish on its way to Muslim countries, Imaru Ikawa",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/CVlzumGm3J",
+                                    "type": "STRING"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary",
+                              "url": "https://t.co/CVlzumGm3J",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoxMjE5NDk0NDEzODI4NjQwNzY4",
+                                    "rest_id": "1219494413828640768",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": false,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Tue Jan 21 05:39:05 +0000 2020",
+                                      "default_profile": true,
+                                      "default_profile_image": false,
+                                      "description": "Deliver The Charms and Halal of Japan\n\uD83C\uDF38Friendly resources on tourism, food & more in Japan\nGet Your MuslimFriendly\uD83C\uDDEF\uD83C\uDDF5 Bite Box Now\nhttps://t.co/0XdxYUXfJz",
+                                      "entities": {
+                                        "description": {
+                                          "urls": [
+                                            {
+                                              "display_url": "LaunchGood.com/japaneid",
+                                              "expanded_url": "http://LaunchGood.com/japaneid",
+                                              "url": "https://t.co/0XdxYUXfJz",
+                                              "indices": [130, 153]
+                                            }
+                                          ]
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "groovyjapan.com/en/",
+                                              "expanded_url": "https://www.groovyjapan.com/en/",
+                                              "url": "https://t.co/qAqwT4MH7R",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 1318,
+                                      "followers_count": 259,
+                                      "friends_count": 37,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 0,
+                                      "location": "Osaka, Japan",
+                                      "media_count": 356,
+                                      "name": "Salam Groovy Japan",
+                                      "normal_followers_count": 259,
+                                      "pinned_tweet_ids_str": ["1679702750165192705"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219494413828640768/1596676303",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413408319180476418/o9UYTZgZ_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "Salam_GJ",
+                                      "statuses_count": 2029,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/qAqwT4MH7R",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1547060749423390720"],
+                            "editable_until_msecs": "1657684800000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Wed Jul 13 03:30:00 +0000 2022",
+                            "conversation_id_str": "1547060749423390720",
+                            "display_text_range": [0, 265],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "groovyjapan.com/en/imaru-ikawa…",
+                                  "expanded_url": "https://www.groovyjapan.com/en/imaru-ikawa_en/",
+                                  "url": "https://t.co/CVlzumGm3J",
+                                  "indices": [203, 226]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [40, 47],
+                                  "text": "Muslim"
+                                },
+                                {
+                                  "indices": [174, 180],
+                                  "text": "Halal"
+                                },
+                                {
+                                  "indices": [227, 231],
+                                  "text": "SGJ"
+                                },
+                                {
+                                  "indices": [232, 244],
+                                  "text": "Halalan2022"
+                                },
+                                {
+                                  "indices": [245, 254],
+                                  "text": "Malaysia"
+                                },
+                                {
+                                  "indices": [255, 265],
+                                  "text": "Singapore"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "Halal tasty Japanese fish on its way to #Muslim countries, Imaru Ikawa/\nWith the best and the freshest fish, find out about its halal journey including the highlights of its #Halal products. \n\n▼for more\nhttps://t.co/CVlzumGm3J\n#SGJ #Halalan2022 #Malaysia #Singapore",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1219494413828640768",
+                            "id_str": "1547060749423390720"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 232,
+                            "endIndex": 244
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDvyuoNw6L7AKAAUDxznxkrwdAAgABgAAAAEKAAcBTUbfjwO0hwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1543159705358385152",
+                  "sortIndex": "1727230437371120326",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1543159705358385152",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxNTM3NzEwMjM=",
+                                "rest_id": "153771023",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Wed Jun 09 12:04:21 +0000 2010",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "mediocre | @ABSCBNNews | views are my own | subscribe to my YT channel, G? Link here: https://t.co/W8NbckJzbD",
+                                  "entities": {
+                                    "description": {
+                                      "urls": [
+                                        {
+                                          "display_url": "youtu.be/aW45EYmdZyc",
+                                          "expanded_url": "http://youtu.be/aW45EYmdZyc",
+                                          "url": "https://t.co/W8NbckJzbD",
+                                          "indices": [86, 109]
+                                        }
+                                      ]
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "muckrack.com/josiah-antonio",
+                                          "expanded_url": "https://muckrack.com/josiah-antonio",
+                                          "url": "https://t.co/QJlaumevQP",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 121363,
+                                  "followers_count": 4953,
+                                  "friends_count": 2348,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 6,
+                                  "location": "Quezon City",
+                                  "media_count": 4264,
+                                  "name": "Josiah Antonio",
+                                  "normal_followers_count": 4953,
+                                  "pinned_tweet_ids_str": ["1240982902994698242"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/153771023/1653305212",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1584470114090393600/Eb_9gfMs_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "josiahvantonio",
+                                  "statuses_count": 66485,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/QJlaumevQP",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1543159705358385152"],
+                            "editable_until_msecs": "1656754718000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Sat Jul 02 09:08:38 +0000 2022",
+                            "conversation_id_str": "1543155954119651328",
+                            "display_text_range": [0, 241],
+                            "entities": {
+                              "media": [
+                                {
+                                  "display_url": "pic.twitter.com/ryy989RRmj",
+                                  "expanded_url": "https://twitter.com/josiahvantonio/status/1543159705358385152/video/1",
+                                  "id_str": "1543159656746401792",
+                                  "indices": [242, 265],
+                                  "media_key": "7_1543159656746401792",
+                                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543159656746401792/pu/img/UB1kJl6hSEuwEhqg.jpg",
+                                  "type": "video",
+                                  "url": "https://t.co/ryy989RRmj",
+                                  "additional_media_info": {
+                                    "monetizable": false
+                                  },
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 576,
+                                      "w": 1024,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 576,
+                                      "w": 1024,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 383,
+                                      "w": 680,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 576,
+                                    "width": 1024,
+                                    "focus_rects": []
+                                  },
+                                  "video_info": {
+                                    "aspect_ratio": [16, 9],
+                                    "duration_millis": 77871,
+                                    "variants": [
+                                      {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1543159656746401792/pu/vid/1024x576/0u0yN7XFGs2ky47u.mp4?tag=12"
+                                      },
+                                      {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1543159656746401792/pu/vid/480x270/32B_8Lu0o7UjwPss.mp4?tag=12"
+                                      },
+                                      {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1543159656746401792/pu/pl/eGOsyL3IOqEWi3wr.m3u8?tag=12&container=fmp4"
+                                      },
+                                      {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1543159656746401792/pu/vid/640x360/VdOxB77_cf6SQ378.mp4?tag=12"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ],
+                              "user_mentions": [
+                                {
+                                  "id_str": "15872418",
+                                  "name": "ABS-CBN News",
+                                  "screen_name": "ABSCBNNews",
+                                  "indices": [230, 241]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [215, 227],
+                                  "text": "Halalan2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "extended_entities": {
+                              "media": [
+                                {
+                                  "display_url": "pic.twitter.com/ryy989RRmj",
+                                  "expanded_url": "https://twitter.com/josiahvantonio/status/1543159705358385152/video/1",
+                                  "id_str": "1543159656746401792",
+                                  "indices": [242, 265],
+                                  "media_key": "7_1543159656746401792",
+                                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543159656746401792/pu/img/UB1kJl6hSEuwEhqg.jpg",
+                                  "type": "video",
+                                  "url": "https://t.co/ryy989RRmj",
+                                  "additional_media_info": {
+                                    "monetizable": false
+                                  },
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 576,
+                                      "w": 1024,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 576,
+                                      "w": 1024,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 383,
+                                      "w": 680,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 576,
+                                    "width": 1024,
+                                    "focus_rects": []
+                                  },
+                                  "video_info": {
+                                    "aspect_ratio": [16, 9],
+                                    "duration_millis": 77871,
+                                    "variants": [
+                                      {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1543159656746401792/pu/vid/1024x576/0u0yN7XFGs2ky47u.mp4?tag=12"
+                                      },
+                                      {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1543159656746401792/pu/vid/480x270/32B_8Lu0o7UjwPss.mp4?tag=12"
+                                      },
+                                      {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1543159656746401792/pu/pl/eGOsyL3IOqEWi3wr.m3u8?tag=12&container=fmp4"
+                                      },
+                                      {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1543159656746401792/pu/vid/640x360/VdOxB77_cf6SQ378.mp4?tag=12"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "favorite_count": 4,
+                            "favorited": false,
+                            "full_text": "Ka Leody adds that the Filipinos were fed up of the “liberal elite” and made them accept the reign of a Marcos anew. He is hopeful that the “new politics” that they have offered will continue to grow in the future. #Halalan2022 | @ABSCBNNews https://t.co/ryy989RRmj",
+                            "in_reply_to_screen_name": "josiahvantonio",
+                            "in_reply_to_status_id_str": "1543158815519977472",
+                            "in_reply_to_user_id_str": "153771023",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "153771023",
+                            "id_str": "1543159705358385152"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 215,
+                            "endIndex": 227
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAKAAAAwAAgoAAQAAAAAAAAABCgACDvyuoNw6L7AKAAUDxznxkrwdAAgABgAAAAEKAAcBTUbfjwO0hwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1543841660114960388",
+                  "sortIndex": "1727230437371120316",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1543841660114960388",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjozMDcxOTA2Mjk=",
+                                "rest_id": "307190629",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Sun May 29 05:37:37 +0000 2011",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "@MCRmy_Indonesia",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 141,
+                                  "followers_count": 988,
+                                  "friends_count": 218,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 4,
+                                  "location": "",
+                                  "media_count": 557,
+                                  "name": "R",
+                                  "normal_followers_count": 988,
+                                  "pinned_tweet_ids_str": ["1098530081239007233"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/307190629/1569660805",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147160076802596864/kUVKmTBC_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "Oliph_OilWay",
+                                  "statuses_count": 22633,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1543841660114960388"],
+                            "editable_until_msecs": "1656917309000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": true,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Jul 04 06:18:29 +0000 2022",
+                            "conversation_id_str": "1542595537433595906",
+                            "display_text_range": [17, 110],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "2471637373",
+                                  "name": "The Hash Slinging Slasher",
+                                  "screen_name": "fasilitaspablik",
+                                  "indices": [0, 16]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [98, 110],
+                                  "text": "Halalan2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "@fasilitaspablik Biasane aku nek nesu, dikekepi diamplokii terus dijak mbas jajan sih mari wkwkwk #Halalan2022",
+                            "in_reply_to_screen_name": "fasilitaspablik",
+                            "in_reply_to_status_id_str": "1542739135357603840",
+                            "in_reply_to_user_id_str": "2471637373",
+                            "is_quote_status": false,
+                            "lang": "in",
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "307190629",
+                            "id_str": "1543841660114960388"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 98,
+                            "endIndex": 110
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACDvyuoNw6L7AKAAUDxznxkrwdAAgABgAAAAEKAAcBTUbfjwO0hwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1543979872527257601",
+                  "sortIndex": "1727230437371120306",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1543979872527257601",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxNTY5NTM2NQ==",
+                                "rest_id": "15695365",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Fri Aug 01 22:16:03 +0000 2008",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "World Pulse is a social networking platform connecting women worldwide for change.",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "worldpulse.org",
+                                          "expanded_url": "http://www.worldpulse.org",
+                                          "url": "https://t.co/dRByXvbYfB",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 2782,
+                                  "followers_count": 12519,
+                                  "friends_count": 3061,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 666,
+                                  "location": "Global",
+                                  "media_count": 1430,
+                                  "name": "World Pulse",
+                                  "normal_followers_count": 12519,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15695365/1664574362",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1576972353270992904/w-VzbJRU_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "WorldPulse",
+                                  "statuses_count": 7381,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/dRByXvbYfB",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1459219245196185605",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 688,
+                                      "name": "Non-Governmental & Nonprofit Organization ",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1543979872527257601"],
+                            "editable_until_msecs": "1656950262000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Jul 04 15:27:42 +0000 2022",
+                            "conversation_id_str": "1543979872527257601",
+                            "display_text_range": [0, 233],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "worldpulse.cc/3uectoT",
+                                  "expanded_url": "https://worldpulse.cc/3uectoT",
+                                  "url": "https://t.co/LdvHlDR9kM",
+                                  "indices": [134, 157]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [158, 174],
+                                  "text": "fight4democracy"
+                                },
+                                {
+                                  "indices": [175, 196],
+                                  "text": "philippineselections"
+                                },
+                                {
+                                  "indices": [197, 206],
+                                  "text": "wedecide"
+                                },
+                                {
+                                  "indices": [207, 218],
+                                  "text": "worldpulse"
+                                },
+                                {
+                                  "indices": [219, 225],
+                                  "text": "logon"
+                                },
+                                {
+                                  "indices": [226, 233],
+                                  "text": "riseup"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 6,
+                            "favorited": false,
+                            "full_text": "Read Malayapinas' award-winning story mourning the outcome of the election in the Philippines and share your support on World Pulse. \nhttps://t.co/LdvHlDR9kM #fight4democracy #philippineselections #wedecide #worldpulse #logon #riseup",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 3,
+                            "retweeted": false,
+                            "user_id_str": "15695365",
+                            "id_str": "1543979872527257601"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 197,
+                            "endIndex": 206
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACDvyuoNw6L7AKAAUDxznxkrwdAAgABgAAAAEKAAcBTUbfjwO0hwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_ha7njAJxAKAAMX-FrueL9jwAgABAAAAAELAAUAAAIQRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUM4VmJlUWNBVnFRQUJWcVo1TjFsVUFBRlhWSm52dFhFQUVWYkxVY25kVlFBQlY1N01Kb1ZVQUJGVzJhcEJPVWNBRVZheUVOS3hlQUFSVjQwRlc3bFVBQUZYY1ZkZTdVRUFZVmRKV3J3eFpnQUJWektNOUdGVkFBRlhtUTNSMVdRQUVWZEhsNEFOb0FBQlZxanVsODE2QUNGV3NoRFMwVUVBRVZiZkdkYU5wQUFSVjVzWXdCbExBQUZYSmpsVHlVRUFFVmQ0Mm5FbG9BQUJWczY0S1gxVUFCRlhSNkRjTmFRQUlWY2JIcFdwcFFBUlZwRFdFNlZIQUJGWE5FTFpFVUlBQVZkRmVIYVpwd0FCVnpRMWIrVkNBQkZXMVJnNEpYRUFFVmJzcEd6NVd3QUJWczA4OXNtZ0FFRldwbFo5K1ZVQUFWYjlPVnp0VlFBUlYzQXNhbG1qQUFGVzhYOFVYWGdBRVZlS3FxVnhwQUFoVjNtMEd6VjlBQkZYbWlGODZVRUFBVmViKzlWVlVRQlJWM2EyejJXa0FCRlhDVWNRb1ZFQUFWYlpiRnZOb3dBQlY0MEZUMUZMQUJGWGhEamc5VXNBQVZkeDBkcTVxUUFSVnFac1JIRkxBQUZXMEN3WDdhVUFBVmRibytGeHFRQUJWNE03eFQxa0FCCAAGAAAAAAgABwAAAAMMAAgKAAEVbLUcndVQAAAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_ha7njAJxAKAAMX-FrueL9jwAgABAAAAAILAAUAAAIQRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUM4VmJlUWNBVnFRQUJWcVo1TjFsVUFBRlhWSm52dFhFQUVWYkxVY25kVlFBQlY1N01Kb1ZVQUJGVzJhcEJPVWNBRVZheUVOS3hlQUFSVjQwRlc3bFVBQUZYY1ZkZTdVRUFZVmRKV3J3eFpnQUJWektNOUdGVkFBRlhtUTNSMVdRQUVWZEhsNEFOb0FBQlZxanVsODE2QUNGV3NoRFMwVUVBRVZiZkdkYU5wQUFSVjVzWXdCbExBQUZYSmpsVHlVRUFFVmQ0Mm5FbG9BQUJWczY0S1gxVUFCRlhSNkRjTmFRQUlWY2JIcFdwcFFBUlZwRFdFNlZIQUJGWE5FTFpFVUlBQVZkRmVIYVpwd0FCVnpRMWIrVkNBQkZXMVJnNEpYRUFFVmJzcEd6NVd3QUJWczA4OXNtZ0FFRldwbFo5K1ZVQUFWYjlPVnp0VlFBUlYzQXNhbG1qQUFGVzhYOFVYWGdBRVZlS3FxVnhwQUFoVjNtMEd6VjlBQkZYbWlGODZVRUFBVmViKzlWVlVRQlJWM2EyejJXa0FCRlhDVWNRb1ZFQUFWYlpiRnZOb3dBQlY0MEZUMUZMQUJGWGhEamc5VXNBQVZkeDBkcTVxUUFSVnFac1JIRkxBQUZXMEN3WDdhVUFBVmRibytGeHFRQUJWNE03eFQxa0FCCAAGAAAAAAgABwAAAAMMAAgKAAEVbLUcndVQAAAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

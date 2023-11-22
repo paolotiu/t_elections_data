@@ -1,0 +1,1383 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1546298570235490304",
+                  "sortIndex": "1727230437371100336",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1546298570235490304",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxOTA5Nzc3Mzc=",
+                                "rest_id": "190977737",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Wed Sep 15 09:28:22 +0000 2010",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "\uD835\uDD4F the noble & ever loyal ✠ 11:11 comes twice a day because everyone deserves a 2nd chance. ᜉᜂᜎᜓ \uD83E\uDD81♌ handsome/brilliant \uD83C\uDDF5\uD83C\uDDED\uD83C\uDDE7\uD83C\uDDED Host/Speaker\uD83C\uDF99#BanlawSpaces ",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "instagram.com/pauloinmanila.…",
+                                          "expanded_url": "http://instagram.com/pauloinmanila.official/",
+                                          "url": "https://t.co/3I93RlOrAH",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 246636,
+                                  "followers_count": 24592,
+                                  "friends_count": 7970,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 29,
+                                  "location": "Intramuros",
+                                  "media_count": 38359,
+                                  "name": "@pauloinmanila and 99 others",
+                                  "normal_followers_count": 24592,
+                                  "pinned_tweet_ids_str": ["1707050801167032714"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/190977737/1698841610",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1719867959928352768/dwhOzBCi_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "pauloMDtweets",
+                                  "statuses_count": 190803,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/3I93RlOrAH",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1546298570235490304"],
+                            "editable_until_msecs": "1657503082000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": true,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "quoted_status_result": {
+                            "result": {
+                              "__typename": "Tweet",
+                              "rest_id": "1545949015157587969",
+                              "core": {
+                                "user_results": {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjo0NzIxMjIyOTk=",
+                                    "rest_id": "472122299",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Mon Jan 23 16:37:30 +0000 2012",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "The official Twitter account of The Philippine STAR, flagship title of the country's most successful print media enterprise.",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "philstarlife.com/star37",
+                                              "expanded_url": "https://philstarlife.com/star37",
+                                              "url": "https://t.co/90BcehySbR",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 3288,
+                                      "followers_count": 1541614,
+                                      "friends_count": 868,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 2488,
+                                      "location": "Philippines",
+                                      "media_count": 204848,
+                                      "name": "The Philippine Star",
+                                      "normal_followers_count": 1541614,
+                                      "pinned_tweet_ids_str": [],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/472122299/1601895131",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1610869121268469761/0JG_WM7k_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "PhilippineStar",
+                                      "statuses_count": 677542,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/90BcehySbR",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1479355201278517248",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "unmention_data": {},
+                              "edit_control": {
+                                "edit_tweet_ids": ["1545949015157587969"],
+                                "editable_until_msecs": "1657419742000",
+                                "is_edit_eligible": false,
+                                "edits_remaining": "5"
+                              },
+                              "is_translatable": false,
+                              "views": {
+                                "state": "Enabled"
+                              },
+                              "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                              "legacy": {
+                                "bookmark_count": 66,
+                                "bookmarked": false,
+                                "created_at": "Sun Jul 10 01:52:22 +0000 2022",
+                                "conversation_id_str": "1545949015157587969",
+                                "display_text_range": [0, 200],
+                                "entities": {
+                                  "media": [
+                                    {
+                                      "display_url": "pic.twitter.com/t03WPTq5Ti",
+                                      "expanded_url": "https://twitter.com/PhilippineStar/status/1545949015157587969/photo/1",
+                                      "id_str": "1545948878582583297",
+                                      "indices": [201, 224],
+                                      "media_key": "3_1545948878582583297",
+                                      "media_url_https": "https://pbs.twimg.com/media/FXRQUHTUEAEGxXH.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/t03WPTq5Ti",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": []
+                                        },
+                                        "medium": {
+                                          "faces": []
+                                        },
+                                        "small": {
+                                          "faces": []
+                                        },
+                                        "orig": {
+                                          "faces": []
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 1280,
+                                          "w": 960,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 1200,
+                                          "w": 900,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 680,
+                                          "w": 510,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 1280,
+                                        "width": 960,
+                                        "focus_rects": [
+                                          {
+                                            "x": 0,
+                                            "y": 211,
+                                            "w": 960,
+                                            "h": 538
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 960,
+                                            "h": 960
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 960,
+                                            "h": 1094
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 640,
+                                            "h": 1280
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 960,
+                                            "h": 1280
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "display_url": "pic.twitter.com/t03WPTq5Ti",
+                                      "expanded_url": "https://twitter.com/PhilippineStar/status/1545949015157587969/photo/1",
+                                      "id_str": "1545948898664914944",
+                                      "indices": [201, 224],
+                                      "media_key": "3_1545948898664914944",
+                                      "media_url_https": "https://pbs.twimg.com/media/FXRQVSHUIAAkgrq.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/t03WPTq5Ti",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": [
+                                            {
+                                              "x": 683,
+                                              "y": 988,
+                                              "h": 182,
+                                              "w": 182
+                                            },
+                                            {
+                                              "x": 210,
+                                              "y": 105,
+                                              "h": 235,
+                                              "w": 235
+                                            }
+                                          ]
+                                        },
+                                        "medium": {
+                                          "faces": [
+                                            {
+                                              "x": 640,
+                                              "y": 926,
+                                              "h": 170,
+                                              "w": 170
+                                            },
+                                            {
+                                              "x": 196,
+                                              "y": 98,
+                                              "h": 220,
+                                              "w": 220
+                                            }
+                                          ]
+                                        },
+                                        "small": {
+                                          "faces": [
+                                            {
+                                              "x": 362,
+                                              "y": 524,
+                                              "h": 96,
+                                              "w": 96
+                                            },
+                                            {
+                                              "x": 111,
+                                              "y": 55,
+                                              "h": 124,
+                                              "w": 124
+                                            }
+                                          ]
+                                        },
+                                        "orig": {
+                                          "faces": [
+                                            {
+                                              "x": 683,
+                                              "y": 988,
+                                              "h": 182,
+                                              "w": 182
+                                            },
+                                            {
+                                              "x": 210,
+                                              "y": 105,
+                                              "h": 235,
+                                              "w": 235
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 1280,
+                                          "w": 960,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 1200,
+                                          "w": 900,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 680,
+                                          "w": 510,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 1280,
+                                        "width": 960,
+                                        "focus_rects": [
+                                          {
+                                            "x": 0,
+                                            "y": 723,
+                                            "w": 960,
+                                            "h": 538
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 320,
+                                            "w": 960,
+                                            "h": 960
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 186,
+                                            "w": 960,
+                                            "h": 1094
+                                          },
+                                          {
+                                            "x": 160,
+                                            "y": 0,
+                                            "w": 640,
+                                            "h": 1280
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 960,
+                                            "h": 1280
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "display_url": "pic.twitter.com/t03WPTq5Ti",
+                                      "expanded_url": "https://twitter.com/PhilippineStar/status/1545949015157587969/photo/1",
+                                      "id_str": "1545948915672813568",
+                                      "indices": [201, 224],
+                                      "media_key": "3_1545948915672813568",
+                                      "media_url_https": "https://pbs.twimg.com/media/FXRQWReUEAA1g9i.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/t03WPTq5Ti",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": [
+                                            {
+                                              "x": 312,
+                                              "y": 157,
+                                              "h": 66,
+                                              "w": 66
+                                            }
+                                          ]
+                                        },
+                                        "medium": {
+                                          "faces": [
+                                            {
+                                              "x": 292,
+                                              "y": 147,
+                                              "h": 61,
+                                              "w": 61
+                                            }
+                                          ]
+                                        },
+                                        "small": {
+                                          "faces": [
+                                            {
+                                              "x": 165,
+                                              "y": 83,
+                                              "h": 35,
+                                              "w": 35
+                                            }
+                                          ]
+                                        },
+                                        "orig": {
+                                          "faces": [
+                                            {
+                                              "x": 312,
+                                              "y": 157,
+                                              "h": 66,
+                                              "w": 66
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 1280,
+                                          "w": 576,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 1200,
+                                          "w": 540,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 680,
+                                          "w": 306,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 1280,
+                                        "width": 576,
+                                        "focus_rects": [
+                                          {
+                                            "x": 0,
+                                            "y": 383,
+                                            "w": 576,
+                                            "h": 323
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 256,
+                                            "w": 576,
+                                            "h": 576
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 216,
+                                            "w": 576,
+                                            "h": 657
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 576,
+                                            "h": 1152
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 576,
+                                            "h": 1280
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "display_url": "pic.twitter.com/t03WPTq5Ti",
+                                      "expanded_url": "https://twitter.com/PhilippineStar/status/1545949015157587969/photo/1",
+                                      "id_str": "1545948933297360896",
+                                      "indices": [201, 224],
+                                      "media_key": "3_1545948933297360896",
+                                      "media_url_https": "https://pbs.twimg.com/media/FXRQXTIVUAADXpn.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/t03WPTq5Ti",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": []
+                                        },
+                                        "medium": {
+                                          "faces": []
+                                        },
+                                        "small": {
+                                          "faces": []
+                                        },
+                                        "orig": {
+                                          "faces": []
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 577,
+                                          "w": 1280,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 541,
+                                          "w": 1200,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 307,
+                                          "w": 680,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 577,
+                                        "width": 1280,
+                                        "focus_rects": [
+                                          {
+                                            "x": 157,
+                                            "y": 0,
+                                            "w": 1030,
+                                            "h": 577
+                                          },
+                                          {
+                                            "x": 384,
+                                            "y": 0,
+                                            "w": 577,
+                                            "h": 577
+                                          },
+                                          {
+                                            "x": 419,
+                                            "y": 0,
+                                            "w": 506,
+                                            "h": 577
+                                          },
+                                          {
+                                            "x": 528,
+                                            "y": 0,
+                                            "w": 289,
+                                            "h": 577
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1280,
+                                            "h": 577
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  ],
+                                  "user_mentions": [],
+                                  "urls": [],
+                                  "hashtags": [],
+                                  "symbols": []
+                                },
+                                "extended_entities": {
+                                  "media": [
+                                    {
+                                      "display_url": "pic.twitter.com/t03WPTq5Ti",
+                                      "expanded_url": "https://twitter.com/PhilippineStar/status/1545949015157587969/photo/1",
+                                      "id_str": "1545948878582583297",
+                                      "indices": [201, 224],
+                                      "media_key": "3_1545948878582583297",
+                                      "media_url_https": "https://pbs.twimg.com/media/FXRQUHTUEAEGxXH.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/t03WPTq5Ti",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": []
+                                        },
+                                        "medium": {
+                                          "faces": []
+                                        },
+                                        "small": {
+                                          "faces": []
+                                        },
+                                        "orig": {
+                                          "faces": []
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 1280,
+                                          "w": 960,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 1200,
+                                          "w": 900,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 680,
+                                          "w": 510,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 1280,
+                                        "width": 960,
+                                        "focus_rects": [
+                                          {
+                                            "x": 0,
+                                            "y": 211,
+                                            "w": 960,
+                                            "h": 538
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 960,
+                                            "h": 960
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 960,
+                                            "h": 1094
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 640,
+                                            "h": 1280
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 960,
+                                            "h": 1280
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "display_url": "pic.twitter.com/t03WPTq5Ti",
+                                      "expanded_url": "https://twitter.com/PhilippineStar/status/1545949015157587969/photo/1",
+                                      "id_str": "1545948898664914944",
+                                      "indices": [201, 224],
+                                      "media_key": "3_1545948898664914944",
+                                      "media_url_https": "https://pbs.twimg.com/media/FXRQVSHUIAAkgrq.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/t03WPTq5Ti",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": [
+                                            {
+                                              "x": 683,
+                                              "y": 988,
+                                              "h": 182,
+                                              "w": 182
+                                            },
+                                            {
+                                              "x": 210,
+                                              "y": 105,
+                                              "h": 235,
+                                              "w": 235
+                                            }
+                                          ]
+                                        },
+                                        "medium": {
+                                          "faces": [
+                                            {
+                                              "x": 640,
+                                              "y": 926,
+                                              "h": 170,
+                                              "w": 170
+                                            },
+                                            {
+                                              "x": 196,
+                                              "y": 98,
+                                              "h": 220,
+                                              "w": 220
+                                            }
+                                          ]
+                                        },
+                                        "small": {
+                                          "faces": [
+                                            {
+                                              "x": 362,
+                                              "y": 524,
+                                              "h": 96,
+                                              "w": 96
+                                            },
+                                            {
+                                              "x": 111,
+                                              "y": 55,
+                                              "h": 124,
+                                              "w": 124
+                                            }
+                                          ]
+                                        },
+                                        "orig": {
+                                          "faces": [
+                                            {
+                                              "x": 683,
+                                              "y": 988,
+                                              "h": 182,
+                                              "w": 182
+                                            },
+                                            {
+                                              "x": 210,
+                                              "y": 105,
+                                              "h": 235,
+                                              "w": 235
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 1280,
+                                          "w": 960,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 1200,
+                                          "w": 900,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 680,
+                                          "w": 510,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 1280,
+                                        "width": 960,
+                                        "focus_rects": [
+                                          {
+                                            "x": 0,
+                                            "y": 723,
+                                            "w": 960,
+                                            "h": 538
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 320,
+                                            "w": 960,
+                                            "h": 960
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 186,
+                                            "w": 960,
+                                            "h": 1094
+                                          },
+                                          {
+                                            "x": 160,
+                                            "y": 0,
+                                            "w": 640,
+                                            "h": 1280
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 960,
+                                            "h": 1280
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "display_url": "pic.twitter.com/t03WPTq5Ti",
+                                      "expanded_url": "https://twitter.com/PhilippineStar/status/1545949015157587969/photo/1",
+                                      "id_str": "1545948915672813568",
+                                      "indices": [201, 224],
+                                      "media_key": "3_1545948915672813568",
+                                      "media_url_https": "https://pbs.twimg.com/media/FXRQWReUEAA1g9i.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/t03WPTq5Ti",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": [
+                                            {
+                                              "x": 312,
+                                              "y": 157,
+                                              "h": 66,
+                                              "w": 66
+                                            }
+                                          ]
+                                        },
+                                        "medium": {
+                                          "faces": [
+                                            {
+                                              "x": 292,
+                                              "y": 147,
+                                              "h": 61,
+                                              "w": 61
+                                            }
+                                          ]
+                                        },
+                                        "small": {
+                                          "faces": [
+                                            {
+                                              "x": 165,
+                                              "y": 83,
+                                              "h": 35,
+                                              "w": 35
+                                            }
+                                          ]
+                                        },
+                                        "orig": {
+                                          "faces": [
+                                            {
+                                              "x": 312,
+                                              "y": 157,
+                                              "h": 66,
+                                              "w": 66
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 1280,
+                                          "w": 576,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 1200,
+                                          "w": 540,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 680,
+                                          "w": 306,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 1280,
+                                        "width": 576,
+                                        "focus_rects": [
+                                          {
+                                            "x": 0,
+                                            "y": 383,
+                                            "w": 576,
+                                            "h": 323
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 256,
+                                            "w": 576,
+                                            "h": 576
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 216,
+                                            "w": 576,
+                                            "h": 657
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 576,
+                                            "h": 1152
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 576,
+                                            "h": 1280
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "display_url": "pic.twitter.com/t03WPTq5Ti",
+                                      "expanded_url": "https://twitter.com/PhilippineStar/status/1545949015157587969/photo/1",
+                                      "id_str": "1545948933297360896",
+                                      "indices": [201, 224],
+                                      "media_key": "3_1545948933297360896",
+                                      "media_url_https": "https://pbs.twimg.com/media/FXRQXTIVUAADXpn.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/t03WPTq5Ti",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": []
+                                        },
+                                        "medium": {
+                                          "faces": []
+                                        },
+                                        "small": {
+                                          "faces": []
+                                        },
+                                        "orig": {
+                                          "faces": []
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 577,
+                                          "w": 1280,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 541,
+                                          "w": 1200,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 307,
+                                          "w": 680,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 577,
+                                        "width": 1280,
+                                        "focus_rects": [
+                                          {
+                                            "x": 157,
+                                            "y": 0,
+                                            "w": 1030,
+                                            "h": 577
+                                          },
+                                          {
+                                            "x": 384,
+                                            "y": 0,
+                                            "w": 577,
+                                            "h": 577
+                                          },
+                                          {
+                                            "x": 419,
+                                            "y": 0,
+                                            "w": 506,
+                                            "h": 577
+                                          },
+                                          {
+                                            "x": 528,
+                                            "y": 0,
+                                            "w": 289,
+                                            "h": 577
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1280,
+                                            "h": 577
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  ]
+                                },
+                                "favorite_count": 12768,
+                                "favorited": false,
+                                "full_text": "Former vice president and lawyer Leni Robredo on Saturday announced that the Angat Buhay program has partnered with other volunteer organizations to help the victims of flash floods in Banaue, Ifugao. https://t.co/t03WPTq5Ti",
+                                "is_quote_status": false,
+                                "lang": "en",
+                                "possibly_sensitive": false,
+                                "possibly_sensitive_editable": true,
+                                "quote_count": 983,
+                                "reply_count": 141,
+                                "retweet_count": 2707,
+                                "retweeted": false,
+                                "user_id_str": "472122299",
+                                "id_str": "1545949015157587969"
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Jul 11 01:01:22 +0000 2022",
+                            "conversation_id_str": "1546298570235490304",
+                            "display_text_range": [0, 199],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "47211842",
+                                  "name": "Leni Robredo",
+                                  "screen_name": "lenirobredo",
+                                  "indices": [95, 107]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [0, 17],
+                                  "text": "NasaanAngPangulo"
+                                },
+                                {
+                                  "indices": [19, 31],
+                                  "text": "NasaanAngVP"
+                                },
+                                {
+                                  "indices": [53, 64],
+                                  "text": "AngatBuhay"
+                                },
+                                {
+                                  "indices": [111, 123],
+                                  "text": "Halalan2022"
+                                },
+                                {
+                                  "indices": [159, 171],
+                                  "text": "TeamBBMSARA"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 2,
+                            "favorited": false,
+                            "full_text": "#NasaanAngPangulo?\n#NasaanAngVP?\nTapos nauna pa yung #AngatBuhay sa Banaue kung saan NATALO si @lenirobredo sa #Halalan2022 anuna mga taga Norte? Asaan po ang #TeamBBMSARA? Malelate ba sa pag tulong?",
+                            "is_quote_status": true,
+                            "lang": "tl",
+                            "place": {
+                              "bounding_box": {
+                                "coordinates": [
+                                  [
+                                    [120.9416422, 14.5438774],
+                                    [120.9416422, 14.6390361],
+                                    [121.0263307, 14.6390361],
+                                    [121.0263307, 14.5438774],
+                                    [120.9416422, 14.5438774]
+                                  ]
+                                ],
+                                "type": "Polygon"
+                              },
+                              "country": "Republic of the Philippines",
+                              "country_code": "PH",
+                              "full_name": "Manila City, National Capital Region",
+                              "name": "Manila City",
+                              "id": "01bb53b81ba40196",
+                              "place_type": "city",
+                              "url": "https://api.twitter.com/1.1/geo/id/01bb53b81ba40196.json"
+                            },
+                            "quote_count": 0,
+                            "quoted_status_id_str": "1545949015157587969",
+                            "quoted_status_permalink": {
+                              "url": "https://t.co/7MeoNHadYN",
+                              "expanded": "https://twitter.com/PhilippineStar/status/1545949015157587969",
+                              "display": "twitter.com/PhilippineStar…"
+                            },
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "190977737",
+                            "id_str": "1546298570235490304"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 111,
+                            "endIndex": 123
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACAg8K+Ox5EHEKAAUDxznxkrwdAAgABgAAAAEKAAfkMtE5n/gtfwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1546823115740971008",
+                  "sortIndex": "1727230437371100326",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1546823115740971008",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo1MDIyODg3MTU=",
+                                "rest_id": "502288715",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Sat Feb 25 00:28:39 +0000 2012",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Reporter, Malaya Business Insight || Sports is the toy department of human life. - Howard Cosell",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 28,
+                                  "followers_count": 605,
+                                  "friends_count": 199,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 13,
+                                  "location": "Philippines",
+                                  "media_count": 13128,
+                                  "name": "Gerard Naval",
+                                  "normal_followers_count": 605,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/502288715/1451516638",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478510004802289666/mNZUHhab_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "gerardnaval",
+                                  "statuses_count": 80128,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1546823115740971008"],
+                            "editable_until_msecs": "1657628144000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Tue Jul 12 11:45:44 +0000 2022",
+                            "conversation_id_str": "1546823112758804481",
+                            "display_text_range": [0, 219],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "1243169430",
+                                  "name": "Malaya News",
+                                  "screen_name": "MalayaNews",
+                                  "indices": [208, 219]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [199, 207],
+                                  "text": "NLE2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "Petitioners: It is of utmost importance to this nation that this Partial Motion for Reconsideration be given the light of day and be elevated, if need be, to the Supreme Court for final disposition. #NLE2022 @MalayaNews",
+                            "in_reply_to_screen_name": "gerardnaval",
+                            "in_reply_to_status_id_str": "1546823112758804481",
+                            "in_reply_to_user_id_str": "502288715",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "502288715",
+                            "id_str": "1546823115740971008"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 199,
+                            "endIndex": 207
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACAg8K+Ox5EHEKAAUDxznxkrwdAAgABgAAAAEKAAfkMtE5n/gtfwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_ha7njAJxAKAAMX-FrueL8VoAgABAAAAAELAAUAAAJIRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQURRVmJlUWNBVnFRQUJWMWpsdGpsTEFBRldzaERTc1hnQUVWYlpxa0U1UndBUlYwbGF2REZtQUFGWG5zd21oVlFBRVZlWkRkSFZaQUFSVnFqdWw4MTZBQ0ZXc2hEUzBVRUFFVmMwUXRrUlFnQUJWeHNlbGFtbEFCRldrTllUcFVjQUVWYlZHRGdsY1FBUlZ2MDVYTzFWQUJGV3BsWjkrVlVBQVZkMnRzOWxwQUFSVjVvaGZPbEJBQUZYZWJRYk5YMEFFVmVLcXFWeHBBQWhWNXY3MVZWUkFGRlc4WDhVWFhnQUVWY0pSeENoVVFBQlY0MEZUMUZMQUJGWGNDeHFXYU1BQVZlRU9PRDFTd0FCVjNIUjJybXBBQkZYVkpudnRYRUFFVmFtZVRkWlZBQUJWc3RSeWQxVkFBRlhjVmRlN1VFQVlWZU5CVnU1VkFBQlZ6S005R0ZWQUFGVzliNUh1VVlBQVZkSGw0QU5vQUFCVjNhMjJvR29BQUZXenJncGZWUUFFVmNtT1ZQSlFRQVJWNXNZd0JsTEFBRlczeG5XamFRQUVWZDQybkVsb0FBQlYwZWczRFdrQUNGWGJuRTdnVUVBQVZkRmVIYVpwd0FCVnpRMWIrVkNBQkZXN0tScytWc0FBVmJOUFBiSm9BQkJWdjU2amtHaUFCRlcyV3hiemFNQUFWYW1iRVJ4U3dBQlZ0QXNGKzJsQUFGWFc2UGhjYWtBQVZlRE84VTlaQUFRPT0IAAYAAAAACAAHAAAABQwACAoAARV1jltjlLAAAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_ha7njAJxAKAAMX-FrueL8VoAgABAAAAAILAAUAAAJIRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQURRVmJlUWNBVnFRQUJWMWpsdGpsTEFBRldzaERTc1hnQUVWYlpxa0U1UndBUlYwbGF2REZtQUFGWG5zd21oVlFBRVZlWkRkSFZaQUFSVnFqdWw4MTZBQ0ZXc2hEUzBVRUFFVmMwUXRrUlFnQUJWeHNlbGFtbEFCRldrTllUcFVjQUVWYlZHRGdsY1FBUlZ2MDVYTzFWQUJGV3BsWjkrVlVBQVZkMnRzOWxwQUFSVjVvaGZPbEJBQUZYZWJRYk5YMEFFVmVLcXFWeHBBQWhWNXY3MVZWUkFGRlc4WDhVWFhnQUVWY0pSeENoVVFBQlY0MEZUMUZMQUJGWGNDeHFXYU1BQVZlRU9PRDFTd0FCVjNIUjJybXBBQkZYVkpudnRYRUFFVmFtZVRkWlZBQUJWc3RSeWQxVkFBRlhjVmRlN1VFQVlWZU5CVnU1VkFBQlZ6S005R0ZWQUFGVzliNUh1VVlBQVZkSGw0QU5vQUFCVjNhMjJvR29BQUZXenJncGZWUUFFVmNtT1ZQSlFRQVJWNXNZd0JsTEFBRlczeG5XamFRQUVWZDQybkVsb0FBQlYwZWczRFdrQUNGWGJuRTdnVUVBQVZkRmVIYVpwd0FCVnpRMWIrVkNBQkZXN0tScytWc0FBVmJOUFBiSm9BQkJWdjU2amtHaUFCRlcyV3hiemFNQUFWYW1iRVJ4U3dBQlZ0QXNGKzJsQUFGWFc2UGhjYWtBQVZlRE84VTlaQUFRPT0IAAYAAAAACAAHAAAABQwACAoAARV1jltjlLAAAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

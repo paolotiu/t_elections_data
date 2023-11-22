@@ -1,0 +1,2492 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1554203859870011397",
+                  "sortIndex": "1727231260352285392",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1554203859870011397",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo4OTQ3MTg0Mg==",
+                                "rest_id": "89471842",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Thu Nov 12 15:42:42 +0000 2009",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "We’re the global leader in secure, accessible, transparent election technology & support services. We believe in equality and justice for all. #SafeElections",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "smartmatic.com",
+                                          "expanded_url": "http://www.smartmatic.com",
+                                          "url": "http://t.co/VUJ7M81EOX",
+                                          "indices": [0, 22]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 501,
+                                  "followers_count": 13128,
+                                  "friends_count": 732,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 96,
+                                  "location": "Worldwide",
+                                  "media_count": 1623,
+                                  "name": "Smartmatic",
+                                  "normal_followers_count": 13128,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/89471842/1601056107",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303314098550181889/-uHF6E8x_normal.png",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "smartmatic",
+                                  "statuses_count": 5114,
+                                  "translator_type": "none",
+                                  "url": "http://t.co/VUJ7M81EOX",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1554203859870011397"],
+                            "editable_until_msecs": "1659387850000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Aug 01 20:34:10 +0000 2022",
+                            "conversation_id_str": "1554203859870011397",
+                            "display_text_range": [0, 262],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "293300646",
+                                  "name": "COMELEC",
+                                  "screen_name": "COMELEC",
+                                  "indices": [134, 142]
+                                }
+                              ],
+                              "urls": [
+                                {
+                                  "display_url": "bit.ly/3B0e0mG",
+                                  "expanded_url": "http://bit.ly/3B0e0mG",
+                                  "url": "https://t.co/L8pNhkmGck",
+                                  "indices": [231, 254]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [255, 262],
+                                  "text": "PHVote"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 1,
+                            "favorited": false,
+                            "full_text": "A nationwide survey by pollster Pulse Asia Research following the 2022 general election found that a remarkable 90% of Filipinos want @COMELEC to continue using their automated election system for the Philippines’ future elections https://t.co/L8pNhkmGck #PHVote",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 1,
+                            "retweet_count": 1,
+                            "retweeted": false,
+                            "user_id_str": "89471842",
+                            "id_str": "1554203859870011397"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 255,
+                            "endIndex": 262
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACWB6+i0emC+4KAAVIgW25ficoGQgABgAAAAEKAAcoDxtLVjEpmAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1554109235340124160",
+                  "sortIndex": "1727231260352285382",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1554109235340124160",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoyMjQyNjUyMDk=",
+                                "rest_id": "224265209",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Wed Dec 08 15:32:35 +0000 2010",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Managing Editor, @rapplerdotcom. Campaigns, elections, local gov't.",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "rappler.com",
+                                          "expanded_url": "https://www.rappler.com",
+                                          "url": "https://t.co/Cp3qRtKSoO",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 4761,
+                                  "followers_count": 7888,
+                                  "friends_count": 771,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 88,
+                                  "location": "",
+                                  "media_count": 3505,
+                                  "name": "Miss Go",
+                                  "normal_followers_count": 7888,
+                                  "pinned_tweet_ids_str": ["1718506123735736440"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/224265209/1439202738",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/630673879506116608/1G-PuaYe_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "miriamgracego",
+                                  "statuses_count": 38032,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/Cp3qRtKSoO",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/LvXCNaU5tk",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "photo_image_full_size_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 150,
+                                      "width": 225,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=280x150"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "Comelec Chairman George Garcia is an election veteran who once defended Ferdinand Marcos Jr., but still earned the confidence of lawyers from rival camps",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 320,
+                                      "width": 480,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=800x320_1"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1066,
+                                      "width": 1600,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 67,
+                                      "width": 100,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=100x100"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "creator",
+                                  "value": {
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1066,
+                                      "width": 1600,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1066,
+                                      "width": 1600,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 27,
+                                            "green": 22,
+                                            "red": 23
+                                          },
+                                          "percentage": 80.46
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 105,
+                                            "green": 132,
+                                            "red": 194
+                                          },
+                                          "percentage": 10.02
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 167,
+                                            "green": 180,
+                                            "red": 182
+                                          },
+                                          "percentage": 2.3
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 48,
+                                            "green": 66,
+                                            "red": 98
+                                          },
+                                          "percentage": 1.8
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 70,
+                                            "green": 37,
+                                            "red": 22
+                                          },
+                                          "percentage": 1.73
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "Veteran election lawyer George Garcia named Comelec chairman",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 27,
+                                            "green": 22,
+                                            "red": 23
+                                          },
+                                          "percentage": 80.46
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 105,
+                                            "green": 132,
+                                            "red": 194
+                                          },
+                                          "percentage": 10.02
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 167,
+                                            "green": 180,
+                                            "red": 182
+                                          },
+                                          "percentage": 2.3
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 48,
+                                            "green": 66,
+                                            "red": 98
+                                          },
+                                          "percentage": 1.8
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 70,
+                                            "green": 37,
+                                            "red": 22
+                                          },
+                                          "percentage": 1.73
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1066,
+                                      "width": 1600,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 27,
+                                            "green": 22,
+                                            "red": 23
+                                          },
+                                          "percentage": 80.46
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 105,
+                                            "green": 132,
+                                            "red": 194
+                                          },
+                                          "percentage": 10.02
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 167,
+                                            "green": 180,
+                                            "red": 182
+                                          },
+                                          "percentage": 2.3
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 48,
+                                            "green": 66,
+                                            "red": 98
+                                          },
+                                          "percentage": 1.8
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 70,
+                                            "green": 37,
+                                            "red": 22
+                                          },
+                                          "percentage": 1.73
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1066,
+                                      "width": 1600,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/LvXCNaU5tk",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1066,
+                                      "width": 1600,
+                                      "url": "https://pbs.twimg.com/card_img/1726509547366346752/vkUrPhV9?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/LvXCNaU5tk",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722819,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4942,
+                                      "location": "Philippines",
+                                      "media_count": 245288,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722819,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028801,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722819,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4942,
+                                      "location": "Philippines",
+                                      "media_count": 245288,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722819,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028801,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1554109235340124160"],
+                            "editable_until_msecs": "1659365290000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Aug 01 14:18:10 +0000 2022",
+                            "conversation_id_str": "1554109235340124160",
+                            "display_text_range": [0, 267],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "330826792",
+                                  "name": "Rappler",
+                                  "screen_name": "rapplerdotcom",
+                                  "indices": [245, 259]
+                                }
+                              ],
+                              "urls": [
+                                {
+                                  "display_url": "rappler.com/nation/marcos-…",
+                                  "expanded_url": "https://www.rappler.com/nation/marcos-jr-appoints-veteran-election-lawyer-george-garcia-comelec-chairman/",
+                                  "url": "https://t.co/LvXCNaU5tk",
+                                  "indices": [217, 240]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [260, 267],
+                                  "text": "PHVote"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 2,
+                            "favorited": false,
+                            "full_text": "Good choice! He knows that realities on the ground — the realities that matter to candidates, their campaign teams, the election workers, and the voters. \n\nVeteran election lawyer George Garcia named Comelec chairman https://t.co/LvXCNaU5tk via @rapplerdotcom #PHVote",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 1,
+                            "retweet_count": 1,
+                            "retweeted": false,
+                            "user_id_str": "224265209",
+                            "id_str": "1554109235340124160"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 260,
+                            "endIndex": 267
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACWB6+i0emC+4KAAVIgW25ficoGQgABgAAAAEKAAcoDxtLVjEpmAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1557041667760431106",
+                  "sortIndex": "1727231260352285372",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1557041667760431106",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjozMzA4MjY3OTI=",
+                                "rest_id": "330826792",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "rappler.com",
+                                          "expanded_url": "http://www.rappler.com",
+                                          "url": "https://t.co/81BJWWR4KN",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 7799,
+                                  "followers_count": 3722819,
+                                  "friends_count": 431,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 4942,
+                                  "location": "Philippines",
+                                  "media_count": 245288,
+                                  "name": "Rappler",
+                                  "normal_followers_count": 3722819,
+                                  "pinned_tweet_ids_str": ["1701551287421284398"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "rapplerdotcom",
+                                  "statuses_count": 1028801,
+                                  "translator_type": "regular",
+                                  "url": "https://t.co/81BJWWR4KN",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1453298946147856390",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 580,
+                                      "name": "Media & News Company",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/ZUuApuUcub",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "photo_image_full_size_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 150,
+                                      "width": 225,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=280x150"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "Lawmakers have filed bills seeking to reschedule the December 2022 barangay elections, citing a number of reasons – from using the poll budget for pandemic response to 'allowing' the country to heal...",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 320,
+                                      "width": 480,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=800x320_1"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 933,
+                                      "width": 1400,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 67,
+                                      "width": 100,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=100x100"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "creator",
+                                  "value": {
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 933,
+                                      "width": 1400,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 933,
+                                      "width": 1400,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 24,
+                                            "green": 32,
+                                            "red": 32
+                                          },
+                                          "percentage": 45.56
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 46,
+                                            "green": 74,
+                                            "red": 115
+                                          },
+                                          "percentage": 13.44
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 173,
+                                            "green": 171,
+                                            "red": 168
+                                          },
+                                          "percentage": 7.97
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 43,
+                                            "green": 43,
+                                            "red": 140
+                                          },
+                                          "percentage": 6.68
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 100,
+                                            "green": 136,
+                                            "red": 192
+                                          },
+                                          "percentage": 5.95
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "Why watchdogs oppose postponing December 2022 barangay, SK elections",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 24,
+                                            "green": 32,
+                                            "red": 32
+                                          },
+                                          "percentage": 45.56
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 46,
+                                            "green": 74,
+                                            "red": 115
+                                          },
+                                          "percentage": 13.44
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 173,
+                                            "green": 171,
+                                            "red": 168
+                                          },
+                                          "percentage": 7.97
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 43,
+                                            "green": 43,
+                                            "red": 140
+                                          },
+                                          "percentage": 6.68
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 100,
+                                            "green": 136,
+                                            "red": 192
+                                          },
+                                          "percentage": 5.95
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 933,
+                                      "width": 1400,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 24,
+                                            "green": 32,
+                                            "red": 32
+                                          },
+                                          "percentage": 45.56
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 46,
+                                            "green": 74,
+                                            "red": 115
+                                          },
+                                          "percentage": 13.44
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 173,
+                                            "green": 171,
+                                            "red": 168
+                                          },
+                                          "percentage": 7.97
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 43,
+                                            "green": 43,
+                                            "red": 140
+                                          },
+                                          "percentage": 6.68
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 100,
+                                            "green": 136,
+                                            "red": 192
+                                          },
+                                          "percentage": 5.95
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 933,
+                                      "width": 1400,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/ZUuApuUcub",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 933,
+                                      "width": 1400,
+                                      "url": "https://pbs.twimg.com/card_img/1726585762357850112/20cTl40c?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/ZUuApuUcub",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722819,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4942,
+                                      "location": "Philippines",
+                                      "media_count": 245288,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722819,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028801,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722819,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4942,
+                                      "location": "Philippines",
+                                      "media_count": 245288,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722819,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028801,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1557041667760431106"],
+                            "editable_until_msecs": "1660064436000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://erased6644614_QyctI2jsZ5.com\" rel=\"nofollow\">erased6644614_QyctI2jsZ5</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Tue Aug 09 16:30:36 +0000 2022",
+                            "conversation_id_str": "1557041667760431106",
+                            "display_text_range": [0, 262],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "rappler.com/newsbreak/in-d…",
+                                  "expanded_url": "https://www.rappler.com/newsbreak/in-depth/why-poll-watchdogs-oppose-postponement-barangay-sk-elections-december-2022/?utm_medium=Social&utm_source=Twitter#Echobox=1660052778-2",
+                                  "url": "https://t.co/ZUuApuUcub",
+                                  "indices": [239, 262]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [230, 237],
+                                  "text": "PHVote"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 1,
+                            "favorited": false,
+                            "full_text": "Lawmakers have filed bills seeking to reschedule the December 2022 barangay elections, citing a number of reasons – from using the poll budget for pandemic response to 'allowing' the country to heal after the divisive May 9 vote. #PHVote  https://t.co/ZUuApuUcub",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 1,
+                            "reply_count": 2,
+                            "retweet_count": 1,
+                            "retweeted": false,
+                            "user_id_str": "330826792",
+                            "id_str": "1557041667760431106"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 230,
+                            "endIndex": 237
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACWB6+i0emC+4KAAVIgW25ficoGQgABgAAAAEKAAcoDxtLVjEpmAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1555418570950995969",
+                  "sortIndex": "1727231260352285362",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1555418570950995969",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxOTIyMzIzMw==",
+                                "rest_id": "19223233",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Tue Jan 20 06:43:44 +0000 2009",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "The Asian Network for Free Elections (ANFREL) supports and promotes democracy across Asia through election observation, local capacity building, and advocacy.",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "anfrel.org",
+                                          "expanded_url": "http://www.anfrel.org",
+                                          "url": "https://t.co/KMeLJJndub",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 325,
+                                  "followers_count": 2538,
+                                  "friends_count": 232,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 42,
+                                  "location": "RTs =/= endorsement",
+                                  "media_count": 848,
+                                  "name": "ANFREL",
+                                  "normal_followers_count": 2538,
+                                  "pinned_tweet_ids_str": ["1724356506311864580"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/19223233/1672620305",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276351821397716996/YV7V3hMo_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "Anfrel",
+                                  "statuses_count": 10104,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/KMeLJJndub",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1501775679574384640",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 688,
+                                      "name": "Non-Governmental & Nonprofit Organization ",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/UGimJATYAd",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "photo_image_full_size_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 147,
+                                      "width": 240,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=240x240"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "Meta also removes 15,000 accounts for violating rules on inauthentic behavior",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 320,
+                                      "width": 523,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=800x320_1"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 612,
+                                      "width": 1000,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 61,
+                                      "width": 100,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=100x100"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "creator",
+                                  "value": {
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 612,
+                                      "width": 1000,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 612,
+                                      "width": 1000,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 160,
+                                            "green": 86,
+                                            "red": 3
+                                          },
+                                          "percentage": 60.38
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 194,
+                                            "green": 176,
+                                            "red": 177
+                                          },
+                                          "percentage": 15.87
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 93,
+                                            "green": 42,
+                                            "red": 3
+                                          },
+                                          "percentage": 11.94
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 174,
+                                            "green": 134,
+                                            "red": 106
+                                          },
+                                          "percentage": 10.05
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 106,
+                                            "green": 42,
+                                            "red": 2
+                                          },
+                                          "percentage": 1.84
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "Over 5M posts downed for violating violence, incitement rules during PH elections – Meta",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 160,
+                                            "green": 86,
+                                            "red": 3
+                                          },
+                                          "percentage": 60.38
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 194,
+                                            "green": 176,
+                                            "red": 177
+                                          },
+                                          "percentage": 15.87
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 93,
+                                            "green": 42,
+                                            "red": 3
+                                          },
+                                          "percentage": 11.94
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 174,
+                                            "green": 134,
+                                            "red": 106
+                                          },
+                                          "percentage": 10.05
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 106,
+                                            "green": 42,
+                                            "red": 2
+                                          },
+                                          "percentage": 1.84
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 612,
+                                      "width": 1000,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 160,
+                                            "green": 86,
+                                            "red": 3
+                                          },
+                                          "percentage": 60.38
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 194,
+                                            "green": 176,
+                                            "red": 177
+                                          },
+                                          "percentage": 15.87
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 93,
+                                            "green": 42,
+                                            "red": 3
+                                          },
+                                          "percentage": 11.94
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 174,
+                                            "green": 134,
+                                            "red": 106
+                                          },
+                                          "percentage": 10.05
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 106,
+                                            "green": 42,
+                                            "red": 2
+                                          },
+                                          "percentage": 1.84
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 612,
+                                      "width": 1000,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/UGimJATYAd",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 612,
+                                      "width": 1000,
+                                      "url": "https://pbs.twimg.com/card_img/1724558182456958976/1zxK8Rf6?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/UGimJATYAd",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722819,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4942,
+                                      "location": "Philippines",
+                                      "media_count": 245288,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722819,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028801,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722819,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4942,
+                                      "location": "Philippines",
+                                      "media_count": 245288,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722819,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028801,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1555418570950995969"],
+                            "editable_until_msecs": "1659677460000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Fri Aug 05 05:01:00 +0000 2022",
+                            "conversation_id_str": "1555418570950995969",
+                            "display_text_range": [0, 267],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "rappler.com/technology/soc…",
+                                  "expanded_url": "https://www.rappler.com/technology/social-media/content-removal-violence-incitement-violations-philippine-elections-meta/",
+                                  "url": "https://t.co/UGimJATYAd",
+                                  "indices": [244, 267]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [46, 56],
+                                  "text": "elections"
+                                },
+                                {
+                                  "indices": [64, 76],
+                                  "text": "Philippines"
+                                },
+                                {
+                                  "indices": [215, 227],
+                                  "text": "Halalan2022"
+                                },
+                                {
+                                  "indices": [228, 241],
+                                  "text": "Eleksyon2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 1,
+                            "favorited": false,
+                            "full_text": "In the lead up to the 2022 national and local #elections in the #Philippines, Meta said it took action on five million pieces of content for violating its violence and incitement policies on Facebook and Instagram. #Halalan2022 #Eleksyon2022 \n\nhttps://t.co/UGimJATYAd",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 1,
+                            "retweeted": false,
+                            "user_id_str": "19223233",
+                            "id_str": "1555418570950995969"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 215,
+                            "endIndex": 227
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACWB6+i0emC+4KAAVIgW25ficoGQgABgAAAAEKAAcoDxtLVjEpmAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1557025756122955778",
+                  "sortIndex": "1727231260352285352",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1557025756122955778",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo1MTAzMDU2Mg==",
+                                "rest_id": "51030562",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Fri Jun 26 12:05:01 +0000 2009",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Information powerhouse run by the Philippines' top journalists. Newsbreak is the investigative and research arm of @rapplerdotcom.",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "rappler.com/newsbreak",
+                                          "expanded_url": "http://www.rappler.com/newsbreak",
+                                          "url": "http://t.co/NKbOyUD1iH",
+                                          "indices": [0, 22]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 318,
+                                  "followers_count": 98226,
+                                  "friends_count": 158,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 784,
+                                  "location": "Philippines",
+                                  "media_count": 4884,
+                                  "name": "Newsbreak",
+                                  "normal_followers_count": 98226,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/51030562/1438699555",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2886072686/6a16af40a5fc038c9c4ecfa4b2cb311e_normal.png",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "newsbreakph",
+                                  "statuses_count": 56576,
+                                  "translator_type": "none",
+                                  "url": "http://t.co/NKbOyUD1iH",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1557025756122955778"],
+                            "editable_until_msecs": "1660060643000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://erased6644614_QyctI2jsZ5.com\" rel=\"nofollow\">erased6644614_QyctI2jsZ5</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Tue Aug 09 15:27:23 +0000 2022",
+                            "conversation_id_str": "1557025756122955778",
+                            "display_text_range": [0, 262],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "rappler.com/newsbreak/in-d…",
+                                  "expanded_url": "https://www.rappler.com/newsbreak/in-depth/why-poll-watchdogs-oppose-postponement-barangay-sk-elections-december-2022/?utm_medium=Social&utm_source=Twitter#Echobox=1660052778-3",
+                                  "url": "https://t.co/9zjNbwBUtE",
+                                  "indices": [239, 262]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [230, 237],
+                                  "text": "PHVote"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "Lawmakers have filed bills seeking to reschedule the December 2022 barangay elections, citing a number of reasons – from using the poll budget for pandemic response to 'allowing' the country to heal after the divisive May 9 vote. #PHVote  https://t.co/9zjNbwBUtE",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "51030562",
+                            "id_str": "1557025756122955778"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 230,
+                            "endIndex": 237
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACWB6+i0emC+4KAAVIgW25ficoGQgABgAAAAEKAAcoDxtLVjEpmAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_hbrhZAJxAKAAMX-FuuFj9jwAgABAAAAAELAAUAAAJQRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQURVVm1qQmJhVmNRQUJXUnBDMFFGOUFGRmFGa1J0c1dJQUFWa1U0ZGtwb2dBQldUK1BGNlZ4QUNGWjVpOHRtYVVBRVZsWGlXdzlVUUFCV2FNbmFqVmtBQUZacFJIbmtXUUFFVmxkaUhVcFFRQUJXZmdQaUgxYkFCRlpob2IrNWFrQUFWbkVtdE10UndBQldZUk5hQ1ZrQUNGWnRlQjZiYWdBQVZtaXNJeTlSd0FCV2ZMZWdTbWdBQUZab3FEYkJYZ0FBVm9DckZuUlZBQVJXYnVTV3pWNkFDRlpPbzBOSFVzQUlWbFlBWVVSWUFBeFdnQStLKzFrQUJGWndnSFY1VUlBQVZsS2I4TnRaQUFCV2FMb3RJVm1BQUZaTDhucFNYa0FJVm5mNDhMNXB3QVJXYU5BSEExbUFCRlo4OHpJZFZFQUFWbTNaSk9GZWdBQldicXF6NzE4QUNGWlQ2M1dDV0lBQVZvanlXVTVRUUFSV1VvTWJmMmtBQkZabUlYY3RhSUFBVm9abTJNcFJRQUJXUWxuVnNtaUFBRlpYMDh3YVVjQUVWbmVQVGZKcUFBQldkL2p6UEduQUFGYUJCY2RTVUlBTVZtamtVZEZmUUFSV2h0Z2w2R2dBQkZadVVuUmhYa0FBVms4ZW0xTlZBQVJXZGNRN1ExRkFBRmFBd2h5NFdJQUVWbmpXN0t0cVFBaFdVNjRtelZrQUJGWnlzUDNaWGtBQVZtaTdVWkJlZ0F4V2dUTE4yMmdBQQgABgAAAAAIAAcAAAADDAAICgABFZPHptTVQAEAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_hbrhZAJxAKAAMX-FuuFj9jwAgABAAAAAILAAUAAAJQRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQURVVm1qQmJhVmNRQUJXUnBDMFFGOUFGRmFGa1J0c1dJQUFWa1U0ZGtwb2dBQldUK1BGNlZ4QUNGWjVpOHRtYVVBRVZsWGlXdzlVUUFCV2FNbmFqVmtBQUZacFJIbmtXUUFFVmxkaUhVcFFRQUJXZmdQaUgxYkFCRlpob2IrNWFrQUFWbkVtdE10UndBQldZUk5hQ1ZrQUNGWnRlQjZiYWdBQVZtaXNJeTlSd0FCV2ZMZWdTbWdBQUZab3FEYkJYZ0FBVm9DckZuUlZBQVJXYnVTV3pWNkFDRlpPbzBOSFVzQUlWbFlBWVVSWUFBeFdnQStLKzFrQUJGWndnSFY1VUlBQVZsS2I4TnRaQUFCV2FMb3RJVm1BQUZaTDhucFNYa0FJVm5mNDhMNXB3QVJXYU5BSEExbUFCRlo4OHpJZFZFQUFWbTNaSk9GZWdBQldicXF6NzE4QUNGWlQ2M1dDV0lBQVZvanlXVTVRUUFSV1VvTWJmMmtBQkZabUlYY3RhSUFBVm9abTJNcFJRQUJXUWxuVnNtaUFBRlpYMDh3YVVjQUVWbmVQVGZKcUFBQldkL2p6UEduQUFGYUJCY2RTVUlBTVZtamtVZEZmUUFSV2h0Z2w2R2dBQkZadVVuUmhYa0FBVms4ZW0xTlZBQVJXZGNRN1ExRkFBRmFBd2h5NFdJQUVWbmpXN0t0cVFBaFdVNjRtelZrQUJGWnlzUDNaWGtBQVZtaTdVWkJlZ0F4V2dUTE4yMmdBQQgABgAAAAAIAAcAAAADDAAICgABFZPHptTVQAEAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

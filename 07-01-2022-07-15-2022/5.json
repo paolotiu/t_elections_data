@@ -1,0 +1,1664 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1544554234095362048",
+                  "sortIndex": "1727230437371110336",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1544554234095362048",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjE5NDk0NDEzODI4NjQwNzY4",
+                                "rest_id": "1219494413828640768",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Tue Jan 21 05:39:05 +0000 2020",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Deliver The Charms and Halal of Japan\n\uD83C\uDF38Friendly resources on tourism, food & more in Japan\nGet Your MuslimFriendly\uD83C\uDDEF\uD83C\uDDF5 Bite Box Now\nhttps://t.co/0XdxYUXfJz",
+                                  "entities": {
+                                    "description": {
+                                      "urls": [
+                                        {
+                                          "display_url": "LaunchGood.com/japaneid",
+                                          "expanded_url": "http://LaunchGood.com/japaneid",
+                                          "url": "https://t.co/0XdxYUXfJz",
+                                          "indices": [130, 153]
+                                        }
+                                      ]
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "groovyjapan.com/en/",
+                                          "expanded_url": "https://www.groovyjapan.com/en/",
+                                          "url": "https://t.co/qAqwT4MH7R",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 1318,
+                                  "followers_count": 259,
+                                  "friends_count": 37,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 0,
+                                  "location": "Osaka, Japan",
+                                  "media_count": 356,
+                                  "name": "Salam Groovy Japan",
+                                  "normal_followers_count": 259,
+                                  "pinned_tweet_ids_str": ["1679702750165192705"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219494413828640768/1596676303",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413408319180476418/o9UYTZgZ_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "Salam_GJ",
+                                  "statuses_count": 2029,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/qAqwT4MH7R",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/N8UgcSDNjo",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "FABALA—food, beverages and cosmetics manufacturer and distributor based on its exclusive technology. Director, Mana Yamada, talks in-depth about its AminoGO HALAL, a soft drink made with sprouted brow",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.groovyjapan.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "1219494413828640768",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "groovyjapan.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "Ramadan nutritional boost with AminoGO HALAL, FABALA | | Salam Groovy",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/N8UgcSDNjo",
+                                    "type": "STRING"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary",
+                              "url": "https://t.co/N8UgcSDNjo",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoxMjE5NDk0NDEzODI4NjQwNzY4",
+                                    "rest_id": "1219494413828640768",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": false,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Tue Jan 21 05:39:05 +0000 2020",
+                                      "default_profile": true,
+                                      "default_profile_image": false,
+                                      "description": "Deliver The Charms and Halal of Japan\n\uD83C\uDF38Friendly resources on tourism, food & more in Japan\nGet Your MuslimFriendly\uD83C\uDDEF\uD83C\uDDF5 Bite Box Now\nhttps://t.co/0XdxYUXfJz",
+                                      "entities": {
+                                        "description": {
+                                          "urls": [
+                                            {
+                                              "display_url": "LaunchGood.com/japaneid",
+                                              "expanded_url": "http://LaunchGood.com/japaneid",
+                                              "url": "https://t.co/0XdxYUXfJz",
+                                              "indices": [130, 153]
+                                            }
+                                          ]
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "groovyjapan.com/en/",
+                                              "expanded_url": "https://www.groovyjapan.com/en/",
+                                              "url": "https://t.co/qAqwT4MH7R",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 1318,
+                                      "followers_count": 259,
+                                      "friends_count": 37,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 0,
+                                      "location": "Osaka, Japan",
+                                      "media_count": 356,
+                                      "name": "Salam Groovy Japan",
+                                      "normal_followers_count": 259,
+                                      "pinned_tweet_ids_str": ["1679702750165192705"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219494413828640768/1596676303",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413408319180476418/o9UYTZgZ_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "Salam_GJ",
+                                      "statuses_count": 2029,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/qAqwT4MH7R",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1544554234095362048"],
+                            "editable_until_msecs": "1657087200000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Wed Jul 06 05:30:00 +0000 2022",
+                            "conversation_id_str": "1544554234095362048",
+                            "display_text_range": [0, 271],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "285541695",
+                                  "name": "FABALA",
+                                  "screen_name": "MANANMANA12",
+                                  "indices": [150, 162]
+                                }
+                              ],
+                              "urls": [
+                                {
+                                  "display_url": "groovyjapan.com/en/fabala_en/",
+                                  "expanded_url": "https://www.groovyjapan.com/en/fabala_en/",
+                                  "url": "https://t.co/N8UgcSDNjo",
+                                  "indices": [212, 235]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [0, 8],
+                                  "text": "Ramadan"
+                                },
+                                {
+                                  "indices": [101, 111],
+                                  "text": "nutrition"
+                                },
+                                {
+                                  "indices": [194, 200],
+                                  "text": "halal"
+                                },
+                                {
+                                  "indices": [236, 240],
+                                  "text": "SGJ"
+                                },
+                                {
+                                  "indices": [241, 248],
+                                  "text": "Muslim"
+                                },
+                                {
+                                  "indices": [249, 261],
+                                  "text": "Halalan2022"
+                                },
+                                {
+                                  "indices": [262, 271],
+                                  "text": "Malaysia"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "#Ramadan nutritional boost with AminoGO HALAL, FABALA/\nAfter discovering a soft drink recommended as #nutrition supply for Ramadan, we reached out to @MANANMANA12 to find out more about AminoGO #halal\n\n▼for more\nhttps://t.co/N8UgcSDNjo\n#SGJ #Muslim #Halalan2022 #Malaysia",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1219494413828640768",
+                            "id_str": "1544554234095362048"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 249,
+                            "endIndex": 261
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACJDl7pwUK2/QKAAUDxznxkrwdAAgABgAAAAEKAAdQLVByyN42wQAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1544707909778808833",
+                  "sortIndex": "1727230437371110326",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1544707909778808833",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjozMzA4MjY3OTI=",
+                                "rest_id": "330826792",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "rappler.com",
+                                          "expanded_url": "http://www.rappler.com",
+                                          "url": "https://t.co/81BJWWR4KN",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 7799,
+                                  "followers_count": 3722817,
+                                  "friends_count": 431,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 4942,
+                                  "location": "Philippines",
+                                  "media_count": 245288,
+                                  "name": "Rappler",
+                                  "normal_followers_count": 3722817,
+                                  "pinned_tweet_ids_str": ["1701551287421284398"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "rapplerdotcom",
+                                  "statuses_count": 1028800,
+                                  "translator_type": "regular",
+                                  "url": "https://t.co/81BJWWR4KN",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1453298946147856390",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 580,
+                                      "name": "Media & News Company",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/kAdGi6xXIn",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "photo_image_full_size_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 150,
+                                      "width": 200,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=280x150"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "The pilot test of the voter registration verification system was the second most expensive budget item in 2019 midterm elections. But the billion-peso project has now become a skeleton in the poll...",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 300,
+                                      "width": 400,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=400x400"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1514,
+                                      "width": 2020,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 75,
+                                      "width": 100,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=100x100"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "creator",
+                                  "value": {
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1514,
+                                      "width": 2020,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1514,
+                                      "width": 2020,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 33,
+                                            "green": 23,
+                                            "red": 16
+                                          },
+                                          "percentage": 13.63
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 176,
+                                            "green": 200,
+                                            "red": 188
+                                          },
+                                          "percentage": 13.22
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 233,
+                                            "green": 172,
+                                            "red": 1
+                                          },
+                                          "percentage": 8.87
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 135,
+                                            "green": 235,
+                                            "red": 143
+                                          },
+                                          "percentage": 8.24
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 2,
+                                            "green": 0,
+                                            "red": 254
+                                          },
+                                          "percentage": 3.74
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "Down the drain: What happened to Comelec’s P1-billion voter verification project?",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 33,
+                                            "green": 23,
+                                            "red": 16
+                                          },
+                                          "percentage": 13.63
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 176,
+                                            "green": 200,
+                                            "red": 188
+                                          },
+                                          "percentage": 13.22
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 233,
+                                            "green": 172,
+                                            "red": 1
+                                          },
+                                          "percentage": 8.87
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 135,
+                                            "green": 235,
+                                            "red": 143
+                                          },
+                                          "percentage": 8.24
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 2,
+                                            "green": 0,
+                                            "red": 254
+                                          },
+                                          "percentage": 3.74
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1514,
+                                      "width": 2020,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 33,
+                                            "green": 23,
+                                            "red": 16
+                                          },
+                                          "percentage": 13.63
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 176,
+                                            "green": 200,
+                                            "red": 188
+                                          },
+                                          "percentage": 13.22
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 233,
+                                            "green": 172,
+                                            "red": 1
+                                          },
+                                          "percentage": 8.87
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 135,
+                                            "green": 235,
+                                            "red": 143
+                                          },
+                                          "percentage": 8.24
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 2,
+                                            "green": 0,
+                                            "red": 254
+                                          },
+                                          "percentage": 3.74
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1514,
+                                      "width": 2020,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/kAdGi6xXIn",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 1514,
+                                      "width": 2020,
+                                      "url": "https://pbs.twimg.com/card_img/1726781992530743296/qnyTsBJ1?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/kAdGi6xXIn",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722817,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4942,
+                                      "location": "Philippines",
+                                      "media_count": 245288,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722817,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028800,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722817,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4942,
+                                      "location": "Philippines",
+                                      "media_count": 245288,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722817,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028800,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1544707909778808833"],
+                            "editable_until_msecs": "1657123839000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://erased6644614_QyctI2jsZ5.com\" rel=\"nofollow\">erased6644614_QyctI2jsZ5</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Wed Jul 06 15:40:39 +0000 2022",
+                            "conversation_id_str": "1544707909778808833",
+                            "display_text_range": [0, 274],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "rappler.com/nation/electio…",
+                                  "expanded_url": "https://www.rappler.com/nation/elections/what-happened-comelec-voter-verification-project/?utm_medium=Social&utm_source=Twitter#Echobox=1657116617-2",
+                                  "url": "https://t.co/kAdGi6xXIn",
+                                  "indices": [251, 274]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [212, 219],
+                                  "text": "PHVote"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 6,
+                            "favorited": false,
+                            "full_text": "The pilot test of the voter registration verification system was the second most expensive budget item in 2019 midterm elections. But the billion-peso project has now become a skeleton in the poll body’s closet. #PHVote \n\nMore in this in-depth piece: https://t.co/kAdGi6xXIn",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 1,
+                            "reply_count": 2,
+                            "retweet_count": 1,
+                            "retweeted": false,
+                            "user_id_str": "330826792",
+                            "id_str": "1544707909778808833"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 212,
+                            "endIndex": 219
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACJDl7pwUK2/QKAAUDxznxkrwdAAgABgAAAAEKAAdQLVByyN42wQAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1546677593927061504",
+                  "sortIndex": "1727230437371110316",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1546677593927061504",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoyOTMzMDA2NDY=",
+                                "rest_id": "293300646",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Square",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Thu May 05 03:16:49 +0000 2011",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Maintained by the Commission on Elections Education and Information Department.",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "comelec.gov.ph",
+                                          "expanded_url": "http://www.comelec.gov.ph",
+                                          "url": "https://t.co/B6vlsI5tsF",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 645,
+                                  "followers_count": 175027,
+                                  "friends_count": 406,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 395,
+                                  "location": "Intramuros, Manila",
+                                  "media_count": 3847,
+                                  "name": "COMELEC",
+                                  "normal_followers_count": 175027,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/293300646/1683252021",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1659370863366664194/tzuc9ZU9_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "COMELEC",
+                                  "statuses_count": 10528,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/B6vlsI5tsF",
+                                  "verified": false,
+                                  "verified_type": "Government",
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1546677593927061504"],
+                            "editable_until_msecs": "1657593448000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Tue Jul 12 02:07:28 +0000 2022",
+                            "conversation_id_str": "1546677593927061504",
+                            "display_text_range": [0, 248],
+                            "entities": {
+                              "media": [
+                                {
+                                  "display_url": "pic.twitter.com/QUc0v8iBU7",
+                                  "expanded_url": "https://twitter.com/COMELEC/status/1546677593927061504/photo/1",
+                                  "id_str": "1546677576508137472",
+                                  "indices": [249, 272],
+                                  "media_key": "3_1546677576508137472",
+                                  "media_url_https": "https://pbs.twimg.com/media/FXbnD6nUYAATbgQ.jpg",
+                                  "type": "photo",
+                                  "url": "https://t.co/QUc0v8iBU7",
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "features": {
+                                    "large": {
+                                      "faces": []
+                                    },
+                                    "medium": {
+                                      "faces": []
+                                    },
+                                    "small": {
+                                      "faces": []
+                                    },
+                                    "orig": {
+                                      "faces": []
+                                    }
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 2048,
+                                      "w": 1536,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 1200,
+                                      "w": 900,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 680,
+                                      "w": 510,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 2048,
+                                    "width": 1536,
+                                    "focus_rects": [
+                                      {
+                                        "x": 0,
+                                        "y": 747,
+                                        "w": 1536,
+                                        "h": 860
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 409,
+                                        "w": 1536,
+                                        "h": 1536
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 297,
+                                        "w": 1536,
+                                        "h": 1751
+                                      },
+                                      {
+                                        "x": 512,
+                                        "y": 0,
+                                        "w": 1024,
+                                        "h": 2048
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1536,
+                                        "h": 2048
+                                      }
+                                    ]
+                                  }
+                                },
+                                {
+                                  "display_url": "pic.twitter.com/QUc0v8iBU7",
+                                  "expanded_url": "https://twitter.com/COMELEC/status/1546677593927061504/photo/1",
+                                  "id_str": "1546677576516526080",
+                                  "indices": [249, 272],
+                                  "media_key": "3_1546677576516526080",
+                                  "media_url_https": "https://pbs.twimg.com/media/FXbnD6pUYAACugM.jpg",
+                                  "type": "photo",
+                                  "url": "https://t.co/QUc0v8iBU7",
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "features": {
+                                    "large": {
+                                      "faces": [
+                                        {
+                                          "x": 424,
+                                          "y": 756,
+                                          "h": 106,
+                                          "w": 106
+                                        }
+                                      ]
+                                    },
+                                    "medium": {
+                                      "faces": [
+                                        {
+                                          "x": 248,
+                                          "y": 442,
+                                          "h": 62,
+                                          "w": 62
+                                        }
+                                      ]
+                                    },
+                                    "small": {
+                                      "faces": [
+                                        {
+                                          "x": 140,
+                                          "y": 251,
+                                          "h": 35,
+                                          "w": 35
+                                        }
+                                      ]
+                                    },
+                                    "orig": {
+                                      "faces": [
+                                        {
+                                          "x": 424,
+                                          "y": 756,
+                                          "h": 106,
+                                          "w": 106
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 2048,
+                                      "w": 1152,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 1200,
+                                      "w": 675,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 680,
+                                      "w": 383,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 2048,
+                                    "width": 1152,
+                                    "focus_rects": [
+                                      {
+                                        "x": 0,
+                                        "y": 548,
+                                        "w": 1152,
+                                        "h": 645
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 294,
+                                        "w": 1152,
+                                        "h": 1152
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 214,
+                                        "w": 1152,
+                                        "h": 1313
+                                      },
+                                      {
+                                        "x": 128,
+                                        "y": 0,
+                                        "w": 1024,
+                                        "h": 2048
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1152,
+                                        "h": 2048
+                                      }
+                                    ]
+                                  }
+                                }
+                              ],
+                              "user_mentions": [],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [212, 230],
+                                  "text": "VoteSAFEPilipinas"
+                                },
+                                {
+                                  "indices": [231, 239],
+                                  "text": "NLE2022"
+                                },
+                                {
+                                  "indices": [240, 248],
+                                  "text": "2022NLE"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "extended_entities": {
+                              "media": [
+                                {
+                                  "display_url": "pic.twitter.com/QUc0v8iBU7",
+                                  "expanded_url": "https://twitter.com/COMELEC/status/1546677593927061504/photo/1",
+                                  "id_str": "1546677576508137472",
+                                  "indices": [249, 272],
+                                  "media_key": "3_1546677576508137472",
+                                  "media_url_https": "https://pbs.twimg.com/media/FXbnD6nUYAATbgQ.jpg",
+                                  "type": "photo",
+                                  "url": "https://t.co/QUc0v8iBU7",
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "features": {
+                                    "large": {
+                                      "faces": []
+                                    },
+                                    "medium": {
+                                      "faces": []
+                                    },
+                                    "small": {
+                                      "faces": []
+                                    },
+                                    "orig": {
+                                      "faces": []
+                                    }
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 2048,
+                                      "w": 1536,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 1200,
+                                      "w": 900,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 680,
+                                      "w": 510,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 2048,
+                                    "width": 1536,
+                                    "focus_rects": [
+                                      {
+                                        "x": 0,
+                                        "y": 747,
+                                        "w": 1536,
+                                        "h": 860
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 409,
+                                        "w": 1536,
+                                        "h": 1536
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 297,
+                                        "w": 1536,
+                                        "h": 1751
+                                      },
+                                      {
+                                        "x": 512,
+                                        "y": 0,
+                                        "w": 1024,
+                                        "h": 2048
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1536,
+                                        "h": 2048
+                                      }
+                                    ]
+                                  }
+                                },
+                                {
+                                  "display_url": "pic.twitter.com/QUc0v8iBU7",
+                                  "expanded_url": "https://twitter.com/COMELEC/status/1546677593927061504/photo/1",
+                                  "id_str": "1546677576516526080",
+                                  "indices": [249, 272],
+                                  "media_key": "3_1546677576516526080",
+                                  "media_url_https": "https://pbs.twimg.com/media/FXbnD6pUYAACugM.jpg",
+                                  "type": "photo",
+                                  "url": "https://t.co/QUc0v8iBU7",
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "features": {
+                                    "large": {
+                                      "faces": [
+                                        {
+                                          "x": 424,
+                                          "y": 756,
+                                          "h": 106,
+                                          "w": 106
+                                        }
+                                      ]
+                                    },
+                                    "medium": {
+                                      "faces": [
+                                        {
+                                          "x": 248,
+                                          "y": 442,
+                                          "h": 62,
+                                          "w": 62
+                                        }
+                                      ]
+                                    },
+                                    "small": {
+                                      "faces": [
+                                        {
+                                          "x": 140,
+                                          "y": 251,
+                                          "h": 35,
+                                          "w": 35
+                                        }
+                                      ]
+                                    },
+                                    "orig": {
+                                      "faces": [
+                                        {
+                                          "x": 424,
+                                          "y": 756,
+                                          "h": 106,
+                                          "w": 106
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 2048,
+                                      "w": 1152,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 1200,
+                                      "w": 675,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 680,
+                                      "w": 383,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 2048,
+                                    "width": 1152,
+                                    "focus_rects": [
+                                      {
+                                        "x": 0,
+                                        "y": 548,
+                                        "w": 1152,
+                                        "h": 645
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 294,
+                                        "w": 1152,
+                                        "h": 1152
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 214,
+                                        "w": 1152,
+                                        "h": 1313
+                                      },
+                                      {
+                                        "x": 128,
+                                        "y": 0,
+                                        "w": 1024,
+                                        "h": 2048
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1152,
+                                        "h": 2048
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "favorite_count": 4,
+                            "favorited": false,
+                            "full_text": "NOW: Destruction of unused ballots and other election-related materials supposed to be used for the 2022 special elections in the municipalities of Butig and Binidayan in Lanao del Sur, which were not conducted\n\n#VoteSAFEPilipinas #NLE2022 #2022NLE https://t.co/QUc0v8iBU7",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 2,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "293300646",
+                            "id_str": "1546677593927061504"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 231,
+                            "endIndex": 239
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAABCgACJDl7pwUK2/QKAAUDxznxkrwdAAgABgAAAAEKAAdQLVByyN42wQAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_ha7njAJxAKAAMX-FrueL88sAgABAAAAAELAAUAAAIwRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQURJVmJlUWNBVnFRQUJWcklRMHJGNEFCRlcyYXBCT1VjQUVWZEpXcnd4WmdBQlY1N01Kb1ZVQUJGWG1RM1IxV1FBRVZhbzdwZk5lZ0FoVnJJUTB0RkJBQkZYTkVMWkVVSUFBVmNiSHBXcHBRQVJWcERXRTZWSEFCRlcxUmc0SlhFQUVWYjlPVnp0VlFBUlZxWldmZmxWQUFGWGRyYlBaYVFBRVZlYUlYenBRUUFCVjNtMEd6VjlBQkZYaXFxbGNhUUFJVmViKzlWVlVRQlJWdkYvRkYxNEFCRlhDVWNRb1ZFQUFWZU5CVTlSU3dBUlYzQXNhbG1qQUFGWGhEamc5VXNBQVZkeDBkcTVxUUFSVjFTWjc3VnhBQkZXcG5rM1dWUUFBVmJMVWNuZFZRQUJWM0ZYWHUxQkFHRlhqUVZidVZRQUFWY3lqUFJoVlFBQlZ2VytSN2xHQUFGWFI1ZUFEYUFBQVZiT3VDbDlWQUFSVnlZNVU4bEJBQkZYbXhqQUdVc0FBVmJmR2RhTnBBQVJWM2phY1NXZ0FBRlhSNkRjTmFRQUlWZHVjVHVCUVFBQlYwVjRkcG1uQUFGWE5EVnY1VUlBRVZic3BHejVXd0FCVnMwODlzbWdBRUZXL25xT1FhSUFFVmJaYkZ2Tm93QUJWcVpzUkhGTEFBRlcwQ3dYN2FVQUFWZGJvK0Z4cVFBQlY0TTd4VDFrQUIIAAYAAAAACAAHAAAABAwACAoAARVvW-R7lGAAAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_ha7njAJxAKAAMX-FrueL88sAgABAAAAAILAAUAAAIwRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQURJVmJlUWNBVnFRQUJWcklRMHJGNEFCRlcyYXBCT1VjQUVWZEpXcnd4WmdBQlY1N01Kb1ZVQUJGWG1RM1IxV1FBRVZhbzdwZk5lZ0FoVnJJUTB0RkJBQkZYTkVMWkVVSUFBVmNiSHBXcHBRQVJWcERXRTZWSEFCRlcxUmc0SlhFQUVWYjlPVnp0VlFBUlZxWldmZmxWQUFGWGRyYlBaYVFBRVZlYUlYenBRUUFCVjNtMEd6VjlBQkZYaXFxbGNhUUFJVmViKzlWVlVRQlJWdkYvRkYxNEFCRlhDVWNRb1ZFQUFWZU5CVTlSU3dBUlYzQXNhbG1qQUFGWGhEamc5VXNBQVZkeDBkcTVxUUFSVjFTWjc3VnhBQkZXcG5rM1dWUUFBVmJMVWNuZFZRQUJWM0ZYWHUxQkFHRlhqUVZidVZRQUFWY3lqUFJoVlFBQlZ2VytSN2xHQUFGWFI1ZUFEYUFBQVZiT3VDbDlWQUFSVnlZNVU4bEJBQkZYbXhqQUdVc0FBVmJmR2RhTnBBQVJWM2phY1NXZ0FBRlhSNkRjTmFRQUlWZHVjVHVCUVFBQlYwVjRkcG1uQUFGWE5EVnY1VUlBRVZic3BHejVXd0FCVnMwODlzbWdBRUZXL25xT1FhSUFFVmJaYkZ2Tm93QUJWcVpzUkhGTEFBRlcwQ3dYN2FVQUFWZGJvK0Z4cVFBQlY0TTd4VDFrQUIIAAYAAAAACAAHAAAABAwACAoAARVvW-R7lGAAAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

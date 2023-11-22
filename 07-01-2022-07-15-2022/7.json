@@ -1,0 +1,480 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1547526050707816448",
+                  "sortIndex": "1727230437371090336",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1547526050707816448",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo1NDgzMTg1Mg==",
+                                "rest_id": "54831852",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Wed Jul 08 07:43:10 +0000 2009",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "\uD83D\uDCDA\uD83D\uDCD9\uD83D\uDCD4\uD83D\uDCD8\uD83D\uDCD5\uD83D\uDCD2\uD83D\uDCD7\uD83D\uDCD3\uD83D\uDCD1\uD83D\uDD16\uD83D\uDCD6\nElections, maps, history, data geek. Pro wrestling fan. Enjoying life to the fullest :) \uD83C\uDDF5\uD83C\uDDED Blogs: Pinoy Index & @PostKnowBillPH",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "pinoyindexph.wordpress.com",
+                                          "expanded_url": "https://pinoyindexph.wordpress.com",
+                                          "url": "https://t.co/ZkI8I44DYy",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 39208,
+                                  "followers_count": 3685,
+                                  "friends_count": 1290,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 40,
+                                  "location": "",
+                                  "media_count": 5600,
+                                  "name": "Michael Bueza",
+                                  "normal_followers_count": 3685,
+                                  "pinned_tweet_ids_str": ["1727163163379192209"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/54831852/1405322224",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/954198127740837888/ywN-Z3hI_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "mikebueza",
+                                  "statuses_count": 37561,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/ZkI8I44DYy",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1547526050707816448"],
+                            "editable_until_msecs": "1657795736000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Thu Jul 14 10:18:56 +0000 2022",
+                            "conversation_id_str": "1547526050707816448",
+                            "display_text_range": [0, 134],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "937294423347552257",
+                                  "name": "Dwight De Leon",
+                                  "screen_name": "newsdwight",
+                                  "indices": [72, 83]
+                                },
+                                {
+                                  "id_str": "330826792",
+                                  "name": "Rappler",
+                                  "screen_name": "rapplerdotcom",
+                                  "indices": [88, 102]
+                                }
+                              ],
+                              "urls": [
+                                {
+                                  "display_url": "rappler.com/newsbreak/trac…",
+                                  "expanded_url": "https://www.rappler.com/newsbreak/tracker-candidates-spent-most-statement-contributions-expenditures-2022/",
+                                  "url": "https://t.co/cSIT9o03Ph",
+                                  "indices": [111, 134]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [103, 110],
+                                  "text": "PHVote"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "TRACKER: Candidates who spent the most in 2022, based on their SOCEs |  @newsdwight via @rapplerdotcom #PHVote https://t.co/cSIT9o03Ph",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "54831852",
+                            "id_str": "1547526050707816448"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 103,
+                            "endIndex": 110
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACHa3vgPwYbQYKAAUDxznxkrwdAAgABgAAAAEKAAdNlCo36vSnZwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1543920055280226306",
+                  "sortIndex": "1727230437371090326",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1543920055280226306",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjozMDg4NTUzOTY=",
+                                "rest_id": "308855396",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Wed Jun 01 03:28:10 +0000 2011",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "The official student publication of De La Salle University. The bastion of issue-oriented critical thinking. Email: me@thelasallian.com",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "thelasallian.com",
+                                          "expanded_url": "http://thelasallian.com",
+                                          "url": "https://t.co/fZ23EPN0F8",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 0,
+                                  "followers_count": 216277,
+                                  "friends_count": 49,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 130,
+                                  "location": "Manila, Philippines",
+                                  "media_count": 17285,
+                                  "name": "The LaSallian",
+                                  "normal_followers_count": 216277,
+                                  "pinned_tweet_ids_str": ["1722954761539096808"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/308855396/1698121881",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1716673607727034368/Mfa8EMLv_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "TheLaSallian",
+                                  "statuses_count": 58507,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/fZ23EPN0F8",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1598672066727018496",
+                                  "professional_type": "Creator",
+                                  "category": [
+                                    {
+                                      "id": 580,
+                                      "name": "Media & News Company",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/8Cjcet1HMz",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "While some fans believe that sports should not be an oulet for politics, different athletes across the world have fought this stigma.",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "thelasallian.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "thelasallian.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "Halftime Thoughts: Filipino first",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/8Cjcet1HMz",
+                                    "type": "STRING"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/8Cjcet1HMz",
+                              "user_refs_results": []
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1543920055280226306"],
+                            "editable_until_msecs": "1656936000000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Jul 04 11:30:00 +0000 2022",
+                            "conversation_id_str": "1543920055280226306",
+                            "display_text_range": [0, 218],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "thelasallian.com/2022/06/27/hal…",
+                                  "expanded_url": "https://thelasallian.com/2022/06/27/halftime-thoughts-filipino-first/",
+                                  "url": "https://t.co/8Cjcet1HMz",
+                                  "indices": [195, 218]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [181, 193],
+                                  "text": "Halalan2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "SPORTS: Instead of just focusing on their respective sports, local athletes maximized their platforms to express their nationalism through campaigning for their political bets last #Halalan2022. https://t.co/8Cjcet1HMz",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "308855396",
+                            "id_str": "1543920055280226306"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 181,
+                            "endIndex": 193
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACHa3vgPwYbQYKAAUDxznxkrwdAAgABgAAAAEKAAdNlCo36vSnZwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_ha7njAJxAKAAMX-FrueL7ukAgABAAAAAELAAUAAAJcRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQURZVmJlUWNBVnFRQUJWMWpsdGpsTEFBRldzaERTc1hnQUVWYlpxa0U1UndBUlYwbGF2REZtQUFGWG5zd21oVlFBRVZlWkRkSFZaQUFSVnFqdWw4MTZBQ0ZXc2hEUzBVRUFFVmMwUXRrUlFnQUJWeHNlbGFtbEFCRldrTllUcFVjQUVWYlJzY09KUlFBaFZ0VVlPQ1Z4QUJGVy9UbGM3VlVBRVZhbVZuMzVWUUFCVjNhMnoyV2tBQkZYbWlGODZVRUFBVmQ1dEJzMWZRQVJWNHFxcFhHa0FDRlhtL3ZWVlZFQVVWYnhmeFJkZUFBUlZ3bEhFS0ZSQUFGWGpRVlBVVXNBRVZkd0xHcFpvd0FCVjRRNDRQVkxBQUZYY2RIYXVha0FFVmRVbWUrMWNRQVJWcVo1TjFsVUFBRld5MUhKM1ZVQUFWZHhWMTd0UVFCaFY0MEZXN2xVQUFGWE1vejBZVlVBQVZiMXZrZTVSZ0FCVjBlWGdBMmdBQUZYZHJiYWdhZ0FBVmJPdUNsOVZBQVJWeVk1VThsQkFCRlhteGpBR1VzQUFWYmZHZGFOcEFBUlYzamFjU1dnQUFGWFI2RGNOYVFBSVZkdWNUdUJRUUFCVjBWNGRwbW5BQUZYTkRWdjVVSUFFVmVlcStkUnBBQUJWdXlrYlBsYkFBRld6VHoyeWFBQVFWYitlbzVCb2dBUlZ0bHNXODJqQUFGV3BteEVjVXNBQVZiUUxCZnRwUUFCVjF1ajRYR3BBQUZYZ3p2RlBXUUFFPQgABgAAAAAIAAcAAAAGDAAICgABFXWOW2OUsAAAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_ha7njAJxAKAAMX-FrueL7ukAgABAAAAAILAAUAAAJcRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQURZVmJlUWNBVnFRQUJWMWpsdGpsTEFBRldzaERTc1hnQUVWYlpxa0U1UndBUlYwbGF2REZtQUFGWG5zd21oVlFBRVZlWkRkSFZaQUFSVnFqdWw4MTZBQ0ZXc2hEUzBVRUFFVmMwUXRrUlFnQUJWeHNlbGFtbEFCRldrTllUcFVjQUVWYlJzY09KUlFBaFZ0VVlPQ1Z4QUJGVy9UbGM3VlVBRVZhbVZuMzVWUUFCVjNhMnoyV2tBQkZYbWlGODZVRUFBVmQ1dEJzMWZRQVJWNHFxcFhHa0FDRlhtL3ZWVlZFQVVWYnhmeFJkZUFBUlZ3bEhFS0ZSQUFGWGpRVlBVVXNBRVZkd0xHcFpvd0FCVjRRNDRQVkxBQUZYY2RIYXVha0FFVmRVbWUrMWNRQVJWcVo1TjFsVUFBRld5MUhKM1ZVQUFWZHhWMTd0UVFCaFY0MEZXN2xVQUFGWE1vejBZVlVBQVZiMXZrZTVSZ0FCVjBlWGdBMmdBQUZYZHJiYWdhZ0FBVmJPdUNsOVZBQVJWeVk1VThsQkFCRlhteGpBR1VzQUFWYmZHZGFOcEFBUlYzamFjU1dnQUFGWFI2RGNOYVFBSVZkdWNUdUJRUUFCVjBWNGRwbW5BQUZYTkRWdjVVSUFFVmVlcStkUnBBQUJWdXlrYlBsYkFBRld6VHoyeWFBQVFWYitlbzVCb2dBUlZ0bHNXODJqQUFGV3BteEVjVXNBQVZiUUxCZnRwUUFCVjF1ajRYR3BBQUZYZ3p2RlBXUUFFPQgABgAAAAAIAAcAAAAGDAAICgABFXWOW2OUsAAAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

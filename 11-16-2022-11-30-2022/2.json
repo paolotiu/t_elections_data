@@ -1,0 +1,812 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1596734444626276353",
+                  "sortIndex": "1727507884180232432",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1596734444626276353",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMzg3OTYzODMxMjg1MDE4NjMx",
+                                "rest_id": "1387963831285018631",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Fri Apr 30 02:55:53 +0000 2021",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "just a basic & possitive guy wd responsibities to my family, fellow pinoys and the motherland Pilipinas. A catalyst for community devt who envision of a peace.R",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 14960,
+                                  "followers_count": 906,
+                                  "friends_count": 2516,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 2,
+                                  "location": "Western Visayas RP",
+                                  "media_count": 73,
+                                  "name": "@JUSTRITE_NT2",
+                                  "normal_followers_count": 906,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387965676179001351/MKrrjd83_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "JustriteN",
+                                  "statuses_count": 19316,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1596734444626276353"],
+                            "editable_until_msecs": "1669527932000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": true,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Sun Nov 27 05:15:32 +0000 2022",
+                            "conversation_id_str": "1596709585963712512",
+                            "display_text_range": [29, 119],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "1136635706581721088",
+                                  "name": "Alfred \uD83D\uDEA2⚓\uD83D\uDD2A",
+                                  "screen_name": "Alfred6468",
+                                  "indices": [0, 11]
+                                },
+                                {
+                                  "id_str": "861173366769582080",
+                                  "name": "f2 logistics",
+                                  "screen_name": "F2Logistics",
+                                  "indices": [98, 110]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [111, 119],
+                                  "text": "NLE2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 1,
+                            "favorited": false,
+                            "full_text": "@Alfred6468 @METAPHO98428148 Mabubulgar na ang tunay na pangyayari @ComelecCentral\n@PPCRVNational\n@F2Logistics\n#NLE2022",
+                            "in_reply_to_screen_name": "Alfred6468",
+                            "in_reply_to_status_id_str": "1596731356360642560",
+                            "in_reply_to_user_id_str": "1136635706581721088",
+                            "is_quote_status": false,
+                            "lang": "tl",
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1387963831285018631",
+                            "id_str": "1596734444626276353"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 111,
+                            "endIndex": 119
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACa0gXD9wjKJgKAAV+8doOzRotqwgABgAAAAEKAAc7T8glA9QipwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1597516882021842944",
+                  "sortIndex": "1727507884180232422",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1597516882021842944",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjA4NzYxOTg4MTIzMjYyOTc3",
+                                "rest_id": "1208761988123262977",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Sun Dec 22 14:51:49 +0000 2019",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "\uD83D\uDD1D/ reputation / TayBillie stan / Andrea Denver x1, Sean O’Pry x1",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 146726,
+                                  "followers_count": 1377,
+                                  "friends_count": 1209,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 0,
+                                  "location": "Paper Town",
+                                  "media_count": 787,
+                                  "name": "james\uD83E\uDDE3ERAS TOUR SG 8/3",
+                                  "normal_followers_count": 1377,
+                                  "pinned_tweet_ids_str": ["1719371481585795306"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1208761988123262977/1600442005",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1720436196055433216/O6fjJMOC_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "notreputa1989",
+                                  "statuses_count": 39575,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1597516882021842944"],
+                            "editable_until_msecs": "1669714479000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Tue Nov 29 09:04:39 +0000 2022",
+                            "conversation_id_str": "1597516882021842944",
+                            "display_text_range": [0, 116],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [98, 107],
+                                  "text": "PNLE2022"
+                                },
+                                {
+                                  "indices": [108, 116],
+                                  "text": "NLE2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 2,
+                            "favorited": false,
+                            "full_text": "Tagal ng NLE results usto ko na makakita ng topnotchers from my school and the 100% passing rate. #PNLE2022 #NLE2022",
+                            "is_quote_status": false,
+                            "lang": "tl",
+                            "quote_count": 0,
+                            "reply_count": 1,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1208761988123262977",
+                            "id_str": "1597516882021842944"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 108,
+                            "endIndex": 116
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACa0gXD9wjKJgKAAV+8doOzRotqwgABgAAAAEKAAc7T8glA9QipwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1596080204644241408",
+                  "sortIndex": "1727507884180232412",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1596080204644241408",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjA4NzYxOTg4MTIzMjYyOTc3",
+                                "rest_id": "1208761988123262977",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Sun Dec 22 14:51:49 +0000 2019",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "\uD83D\uDD1D/ reputation / TayBillie stan / Andrea Denver x1, Sean O’Pry x1",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 146726,
+                                  "followers_count": 1377,
+                                  "friends_count": 1209,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 0,
+                                  "location": "Paper Town",
+                                  "media_count": 787,
+                                  "name": "james\uD83E\uDDE3ERAS TOUR SG 8/3",
+                                  "normal_followers_count": 1377,
+                                  "pinned_tweet_ids_str": ["1719371481585795306"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1208761988123262977/1600442005",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1720436196055433216/O6fjJMOC_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "notreputa1989",
+                                  "statuses_count": 39575,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1596080204644241408"],
+                            "editable_until_msecs": "1669371949000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 1,
+                            "bookmarked": false,
+                            "created_at": "Fri Nov 25 09:55:49 +0000 2022",
+                            "conversation_id_str": "1596080204644241408",
+                            "display_text_range": [0, 76],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [58, 66],
+                                  "text": "NLE2022"
+                                },
+                                {
+                                  "indices": [67, 76],
+                                  "text": "PNLE2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "Sana may topnotchers from CEU pls and sana 100% sila shet #NLE2022 #PNLE2022",
+                            "is_quote_status": false,
+                            "lang": "tl",
+                            "quote_count": 0,
+                            "reply_count": 1,
+                            "retweet_count": 1,
+                            "retweeted": false,
+                            "user_id_str": "1208761988123262977",
+                            "id_str": "1596080204644241408"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 58,
+                            "endIndex": 66
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACa0gXD9wjKJgKAAV+8doOzRotqwgABgAAAAEKAAc7T8glA9QipwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1593106735140851713",
+                  "sortIndex": "1727507884180232402",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1593106735140851713",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxNTYxMTk4NDU1Mjc5NzE0MzA3",
+                                "rest_id": "1561198455279714307",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Sun Aug 21 03:49:28 +0000 2022",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Simplicity in a \uD83C\uDF0E of complexity...",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 13193,
+                                  "followers_count": 1546,
+                                  "friends_count": 2154,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 0,
+                                  "location": "Nigeria",
+                                  "media_count": 149,
+                                  "name": "CrsFinest_tv",
+                                  "normal_followers_count": 1546,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561198455279714307/1667329839",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1724151104118624256/1R6QNADe_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "CrsfinestTv",
+                                  "statuses_count": 2156,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1593106735140851713"],
+                            "editable_until_msecs": "1668663018000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Thu Nov 17 05:00:18 +0000 2022",
+                            "conversation_id_str": "1593106735140851713",
+                            "display_text_range": [0, 219],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [157, 174],
+                                  "text": "ProuldlyObidient"
+                                },
+                                {
+                                  "indices": [175, 184],
+                                  "text": "WeDecide"
+                                },
+                                {
+                                  "indices": [185, 192],
+                                  "text": "WeMove"
+                                },
+                                {
+                                  "indices": [193, 205],
+                                  "text": "ANewNigeria"
+                                },
+                                {
+                                  "indices": [206, 219],
+                                  "text": "Obidatti2023"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 1,
+                            "favorited": false,
+                            "full_text": "In a day, over a hundred followers. Thanks to the Obidients; we are indeed family \uD83D\uDE4F❤️. I Know with this family, a thousand followers in two days is nothing\uD83D\uDE0A #ProuldlyObidient #WeDecide #WeMove #ANewNigeria #Obidatti2023",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "place": {
+                              "bounding_box": {
+                                "coordinates": [
+                                  [
+                                    [8.7159352, 5.9436769],
+                                    [8.7159352, 5.9836595],
+                                    [8.7445656, 5.9836595],
+                                    [8.7445656, 5.9436769],
+                                    [8.7159352, 5.9436769]
+                                  ]
+                                ],
+                                "type": "Polygon"
+                              },
+                              "country": "Nigeria",
+                              "country_code": "NG",
+                              "full_name": "Four Corners, Nigeria",
+                              "name": "Four Corners",
+                              "id": "01cc0fa35f55e1c5",
+                              "place_type": "city",
+                              "url": "https://api.twitter.com/1.1/geo/id/01cc0fa35f55e1c5.json"
+                            },
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1561198455279714307",
+                            "id_str": "1593106735140851713"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 175,
+                            "endIndex": 184
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACa0gXD9wjKJgKAAV+8doOzRotqwgABgAAAAEKAAc7T8glA9QipwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1597524312327565312",
+                  "sortIndex": "1727507884180232392",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1597524312327565312",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMDA2NTAyMjY1NDgwMzQzNTUy",
+                                "rest_id": "1006502265480343552",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Tue Jun 12 11:43:34 +0000 2018",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Head of civic engagement at @rapplerdotcom. | Let’s work together! ✉️: samantha.bagayas@rappler.com",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 139,
+                                  "followers_count": 393,
+                                  "friends_count": 152,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 3,
+                                  "location": "Pasig | Cagayan de Oro City",
+                                  "media_count": 128,
+                                  "name": "Samantha Bagayas",
+                                  "normal_followers_count": 393,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006502265480343552/1528804267",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1674642438634496001/KdRKSwT6_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "SamanthaBagayas",
+                                  "statuses_count": 557,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1597524312327565312"],
+                            "editable_until_msecs": "1669716251000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Tue Nov 29 09:34:11 +0000 2022",
+                            "conversation_id_str": "1597423616412422144",
+                            "display_text_range": [0, 161],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "1532994087556505602",
+                                  "name": "Paolo Cootauco",
+                                  "screen_name": "itchcootauco",
+                                  "indices": [51, 64]
+                                },
+                                {
+                                  "id_str": "2730743550",
+                                  "name": "KAS Philippines",
+                                  "screen_name": "kasphilippines",
+                                  "indices": [95, 110]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [28, 35],
+                                  "text": "PHVote"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 2,
+                            "favorited": false,
+                            "full_text": "Applying learnings from the #PHVote Movers Summit, @itchcootauco livetweeted some parts of the @kasphilippines Solutions Conference 2022. Check out his coverage!",
+                            "in_reply_to_screen_name": "SamanthaBagayas",
+                            "in_reply_to_status_id_str": "1597523635484315649",
+                            "in_reply_to_user_id_str": "1006502265480343552",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "quote_count": 0,
+                            "reply_count": 1,
+                            "retweet_count": 1,
+                            "retweeted": false,
+                            "user_id_str": "1006502265480343552",
+                            "id_str": "1597524312327565312"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 28,
+                            "endIndex": 35
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACa0gXD9wjKJgKAAV+8doOzRotqwgABgAAAAEKAAc7T8glA9QipwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_lXRJdAJxAKAAMX-VdElz-x4AgABAAAAAELAAUAAAEcRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJnV0pTZnhEWm9BQUJZb3N6cklsU0FCRml4TStPQ2FnQUFXTEV6SStsb3dBQllhV3BORFdvQUFGaWxXMlZDYU1BQVdLajRmSlZxUUFCWXBMaXhLR2xBQkZpdk04d09hTUFFV0pTbEhuNW9BQmhZcmhTUGptZ0FBRmlYaWRGQ1h3QUFXS0xPcHhScFFBQlliMmlLTldsQUJGaXZ3NzIyVUFBQVdMRG1MT3hxQUFCWW92WVI4bEhBQkZpeE9lVUZhZ0FBV0xFdG5YQm93QUJZbnh5NkwyaEFCRml4RnRzdFhFQUFXSzR2bDVGV3dBQllhWjkxRzJsQUFGaVpxZlY3YVVBQT0IAAYAAAAACAAHAAAAAQwACAoAARYb2iKNWlABAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_lXRJdAJxAKAAMX-VdElz-x4AgABAAAAAILAAUAAAEcRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJnV0pTZnhEWm9BQUJZb3N6cklsU0FCRml4TStPQ2FnQUFXTEV6SStsb3dBQllhV3BORFdvQUFGaWxXMlZDYU1BQVdLajRmSlZxUUFCWXBMaXhLR2xBQkZpdk04d09hTUFFV0pTbEhuNW9BQmhZcmhTUGptZ0FBRmlYaWRGQ1h3QUFXS0xPcHhScFFBQlliMmlLTldsQUJGaXZ3NzIyVUFBQVdMRG1MT3hxQUFCWW92WVI4bEhBQkZpeE9lVUZhZ0FBV0xFdG5YQm93QUJZbnh5NkwyaEFCRml4RnRzdFhFQUFXSzR2bDVGV3dBQllhWjkxRzJsQUFGaVpxZlY3YVVBQT0IAAYAAAAACAAHAAAAAQwACAoAARYb2iKNWlABAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

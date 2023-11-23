@@ -1,0 +1,1190 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1590206790108872705",
+                  "sortIndex": "1727507405224250064",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1590206790108872705",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxNDAxMTk0NDQ4MTcyNzExOTM4",
+                                "rest_id": "1401194448172711938",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Sat Jun 05 15:09:47 +0000 2021",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Le Matinal est la principale plate-forme médiatique New-Age 24X7 de Maurice qui couvre les dernières nouvelles du monde au régional.",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "lematinal.media",
+                                          "expanded_url": "https://lematinal.media/",
+                                          "url": "https://t.co/6CpnDBUSeO",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 314,
+                                  "followers_count": 629,
+                                  "friends_count": 17,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 8,
+                                  "location": "Mauritius",
+                                  "media_count": 866,
+                                  "name": "Le Matinal Media",
+                                  "normal_followers_count": 629,
+                                  "pinned_tweet_ids_str": ["1727179665314603247"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401194448172711938/1664268797",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401194684412698633/3k8h8IMx_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "lematinal_media",
+                                  "statuses_count": 14619,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/6CpnDBUSeO",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1569907531493031936",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 580,
+                                      "name": "Media & News Company",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/rrDYToGX1W",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "Les dix meilleurs projets sélectionnés au niveau régional dans le cadre de la 4ème édition du National Leadership Engine (NLE) ont été évalués au niveau national au NPCC. Cette année, un total de 30...",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "lematinal.media",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "lematinal.media",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "NLE 2022 : Les Dix Meilleurs Projets Régionaux Evalués Au Niveau National",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/rrDYToGX1W",
+                                    "type": "STRING"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/rrDYToGX1W",
+                              "user_refs_results": []
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1590206790108872705"],
+                            "editable_until_msecs": "1667971618000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": true,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Wed Nov 09 04:56:58 +0000 2022",
+                            "conversation_id_str": "1590206790108872705",
+                            "display_text_range": [0, 155],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "lematinal.media/nle-2022-les-d…",
+                                  "expanded_url": "https://lematinal.media/nle-2022-les-dix-meilleurs-projets-regionaux-evalues-au-niveau-national/",
+                                  "url": "https://t.co/rrDYToGX1W",
+                                  "indices": [132, 155]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [75, 83],
+                                  "text": "NLE2022"
+                                },
+                                {
+                                  "indices": [84, 88],
+                                  "text": "NLE"
+                                },
+                                {
+                                  "indices": [89, 105],
+                                  "text": "RegionalProject"
+                                },
+                                {
+                                  "indices": [106, 120],
+                                  "text": "NationalLevel"
+                                },
+                                {
+                                  "indices": [121, 131],
+                                  "text": "Mauritius"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "NLE 2022 : Les Dix Meilleurs Projets Régionaux Evalués Au Niveau National\n\n#NLE2022 #NLE #RegionalProject #NationalLevel #Mauritius\nhttps://t.co/rrDYToGX1W",
+                            "is_quote_status": false,
+                            "lang": "fr",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1401194448172711938",
+                            "id_str": "1590206790108872705"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 75,
+                            "endIndex": 83
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACYZpFS512hlkKAAVEz8s0ovUFoAgABgAAAAEKAAdZ68CV5xr8GgAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1588149833076207616",
+                  "sortIndex": "1727507405224250054",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1588149833076207616",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMzU0Mjk3OTY=",
+                                "rest_id": "135429796",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Wed Apr 21 08:24:10 +0000 2010",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "\uD83D\uDC69\uD83C\uDFFB‍\uD83D\uDCBB\uD83D\uDCF0 @abscbnnews @ancalerts",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "muckrack.com/katrina-doming…",
+                                          "expanded_url": "https://muckrack.com/katrina-domingo/articles",
+                                          "url": "https://t.co/kxRt8ztvJU",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 1840,
+                                  "followers_count": 9514,
+                                  "friends_count": 358,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 70,
+                                  "location": "Philippines",
+                                  "media_count": 3679,
+                                  "name": "Kat Domingo",
+                                  "normal_followers_count": 9514,
+                                  "pinned_tweet_ids_str": ["833981228151762944"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/135429796/1623699630",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1563031795754356738/Sm7G1vxv_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "_katrinadomingo",
+                                  "statuses_count": 18827,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/kxRt8ztvJU",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1483832395631857664",
+                                  "professional_type": "Creator",
+                                  "category": [
+                                    {
+                                      "id": 955,
+                                      "name": "Journalist",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1588149833076207616"],
+                            "editable_until_msecs": "1667481201000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Thu Nov 03 12:43:21 +0000 2022",
+                            "conversation_id_str": "1587997892031438848",
+                            "display_text_range": [0, 277],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [213, 225],
+                                  "text": "Halalan2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 2,
+                            "favorited": false,
+                            "full_text": "Pasig Vice Mayor Dodot Jaworski and Councilor Quin Cruz confirm they have yet to leave Aksyon Demokratiko after Sotto’s exit.\n\nFormer actress &amp; now Pasig Councilor Angelu de Leon, who also ran under Aksyon in #Halalan2022, yet to respond re: status of her party membership.",
+                            "in_reply_to_screen_name": "_katrinadomingo",
+                            "in_reply_to_status_id_str": "1588145116090609665",
+                            "in_reply_to_user_id_str": "135429796",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "135429796",
+                            "id_str": "1588149833076207616"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 213,
+                            "endIndex": 225
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACYZpFS512hlkKAAVEz8s0ovUFoAgABgAAAAEKAAdZ68CV5xr8GgAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1588365668298039296",
+                  "sortIndex": "1727507405224250044",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1588365668298039296",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxOTIyMzIzMw==",
+                                "rest_id": "19223233",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Tue Jan 20 06:43:44 +0000 2009",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "The Asian Network for Free Elections (ANFREL) supports and promotes democracy across Asia through election observation, local capacity building, and advocacy.",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "anfrel.org",
+                                          "expanded_url": "http://www.anfrel.org",
+                                          "url": "https://t.co/KMeLJJndub",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 325,
+                                  "followers_count": 2539,
+                                  "friends_count": 232,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 42,
+                                  "location": "RTs =/= endorsement",
+                                  "media_count": 848,
+                                  "name": "ANFREL",
+                                  "normal_followers_count": 2539,
+                                  "pinned_tweet_ids_str": ["1724356506311864580"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/19223233/1672620305",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276351821397716996/YV7V3hMo_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "Anfrel",
+                                  "statuses_count": 10104,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/KMeLJJndub",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1501775679574384640",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 688,
+                                      "name": "Non-Governmental & Nonprofit Organization ",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/AYfqAh6aLu",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "photo_image_full_size_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 150,
+                                      "width": 225,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=280x150"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "A petition has been filed before the Supreme Court urging it to compel the preservation of data transmitted on the evening of the election day.",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.philstar.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 320,
+                                      "width": 480,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=800x320_1"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 533,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "55118669",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 202,
+                                      "width": 386,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=386x202"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 419,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=800x419"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_small",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 67,
+                                      "width": 100,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=100x100"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "creator",
+                                  "value": {
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "55118669",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 533,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 533,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "philstar.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "thumbnail_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 172,
+                                            "green": 172,
+                                            "red": 172
+                                          },
+                                          "percentage": 33.18
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 42,
+                                            "green": 46,
+                                            "red": 58
+                                          },
+                                          "percentage": 29.17
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 127,
+                                            "green": 148,
+                                            "red": 199
+                                          },
+                                          "percentage": 7.83
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 22,
+                                            "green": 18,
+                                            "red": 111
+                                          },
+                                          "percentage": 4.56
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 51,
+                                            "green": 32,
+                                            "red": 26
+                                          },
+                                          "percentage": 3.08
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "SC urged to order preservation of May elections data for potential scrutiny",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 172,
+                                            "green": 172,
+                                            "red": 172
+                                          },
+                                          "percentage": 33.18
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 42,
+                                            "green": 46,
+                                            "red": 58
+                                          },
+                                          "percentage": 29.17
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 127,
+                                            "green": 148,
+                                            "red": 199
+                                          },
+                                          "percentage": 7.83
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 22,
+                                            "green": 18,
+                                            "red": 111
+                                          },
+                                          "percentage": 4.56
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 51,
+                                            "green": 32,
+                                            "red": 26
+                                          },
+                                          "percentage": 3.08
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 533,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 314,
+                                      "width": 600,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=600x314"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_color",
+                                  "value": {
+                                    "image_color_value": {
+                                      "palette": [
+                                        {
+                                          "rgb": {
+                                            "blue": 172,
+                                            "green": 172,
+                                            "red": 172
+                                          },
+                                          "percentage": 33.18
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 42,
+                                            "green": 46,
+                                            "red": 58
+                                          },
+                                          "percentage": 29.17
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 127,
+                                            "green": 148,
+                                            "red": 199
+                                          },
+                                          "percentage": 7.83
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 22,
+                                            "green": 18,
+                                            "red": 111
+                                          },
+                                          "percentage": 4.56
+                                        },
+                                        {
+                                          "rgb": {
+                                            "blue": 51,
+                                            "green": 32,
+                                            "red": 26
+                                          },
+                                          "percentage": 3.08
+                                        }
+                                      ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                  }
+                                },
+                                {
+                                  "key": "photo_image_full_size_x_large",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 533,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/AYfqAh6aLu",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "summary_photo_image_original",
+                                  "value": {
+                                    "image_value": {
+                                      "height": 533,
+                                      "width": 800,
+                                      "url": "https://pbs.twimg.com/card_img/1727247475373699075/MuD0Dxvs?format=jpg&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/AYfqAh6aLu",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjo1NTExODY2OQ==",
+                                    "rest_id": "55118669",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 09 02:48:17 +0000 2009",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "The official digital arm of the STAR Group of Publications. We provide credible breaking news, in-depth reports, fact-checks, and contextual real-time coverage.",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "philstar.com",
+                                              "expanded_url": "https://www.philstar.com/",
+                                              "url": "https://t.co/F0D9PGrv7A",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 3662,
+                                      "followers_count": 1020927,
+                                      "friends_count": 144,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 2694,
+                                      "location": "Manila, Philippines",
+                                      "media_count": 56135,
+                                      "name": "Philstar.com",
+                                      "normal_followers_count": 1020927,
+                                      "pinned_tweet_ids_str": ["1711320602605162666"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/55118669/1699328199",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1680030555533094914/SYPGXvTB_normal.png",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "PhilstarNews",
+                                      "statuses_count": 306846,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/F0D9PGrv7A",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1519669261404610560",
+                                      "professional_type": "Creator",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjo1NTExODY2OQ==",
+                                    "rest_id": "55118669",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 09 02:48:17 +0000 2009",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "The official digital arm of the STAR Group of Publications. We provide credible breaking news, in-depth reports, fact-checks, and contextual real-time coverage.",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "philstar.com",
+                                              "expanded_url": "https://www.philstar.com/",
+                                              "url": "https://t.co/F0D9PGrv7A",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 3662,
+                                      "followers_count": 1020927,
+                                      "friends_count": 144,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 2694,
+                                      "location": "Manila, Philippines",
+                                      "media_count": 56135,
+                                      "name": "Philstar.com",
+                                      "normal_followers_count": 1020927,
+                                      "pinned_tweet_ids_str": ["1711320602605162666"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/55118669/1699328199",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1680030555533094914/SYPGXvTB_normal.png",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "PhilstarNews",
+                                      "statuses_count": 306846,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/F0D9PGrv7A",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1519669261404610560",
+                                      "professional_type": "Creator",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1588365668298039296"],
+                            "editable_until_msecs": "1667532660000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Fri Nov 04 03:01:00 +0000 2022",
+                            "conversation_id_str": "1588365668298039296",
+                            "display_text_range": [0, 255],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "philstar.com/headlines/2022…",
+                                  "expanded_url": "https://www.philstar.com/headlines/2022/11/03/2221282/sc-urged-order-preservation-may-elections-data-potential-scrutiny",
+                                  "url": "https://t.co/AYfqAh6aLu",
+                                  "indices": [232, 255]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [134, 143],
+                                  "text": "election"
+                                },
+                                {
+                                  "indices": [188, 200],
+                                  "text": "Philippines"
+                                },
+                                {
+                                  "indices": [203, 215],
+                                  "text": "Halalan2022"
+                                },
+                                {
+                                  "indices": [216, 229],
+                                  "text": "Eleksyon2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "\"A petition has been filed before the Supreme Court urging it to compel the preservation of data transmitted on the evening of May 9, #election day for national and local positions in the #Philippines.\" #Halalan2022 #Eleksyon2022 \n\nhttps://t.co/AYfqAh6aLu",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "19223233",
+                            "id_str": "1588365668298039296"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 203,
+                            "endIndex": 215
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACYZpFS512hlkKAAVEz8s0ovUFoAgABgAAAAEKAAdZ68CV5xr8GgAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_lW1RNAJxAKAAMX-VbVEz9jwAgABAAAAAELAAUAAAKwRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUQ0V0VLWDlsQlJnQVJZS1BtSjlHcEFBRmhXSElRb2FrQUlXRWNQQzhocHdBaFlZUzkvVFdqQUZGZ2NGZk9kVnNBRVdGSUF2ekZvd0FSWVJqS1o3Mm9BQkZoSEVlVmRha0FVV0N3Qmg5WnBRQVJZSUQyMVJsNUFBRmc0NThhcVVVQUFXRktGdlFScUFBUllSOVhkU0dsQUFGZytUQTgwVlFBQVdGRThmTXhvQUFCWVF2MXV1RkZBQ0ZnL0s1T1NhZ0FBV0VZbGJBeG93QUJZT2Nsb2wybEFBRmdpS0hIMFdBQUFXRlJxWllCcHdBUllLbjk3VTFWQUFGaGRpMmc3YWdBQVdERFpXcVpxUUFCWUh4OUxQbDhBQUZnclA3eHRhTUFFV0RHTjREVm9RQUJZUW1qaUFsYkFCRmdrVUI4NGFBQUVXQ2gzN1R0cFFBaFlMYUphbmxGQUFGZ25PYlhrVUFBQVdGODcyaUJwd0FCWVAyZFNiV2dBQUZoU2c3cUFhTUFJV0RqbnkycFd3QVJZUEhVVlFtZ0FBRmdlUG1FMFZzQUFXQ3F1YjRsWkFBeFlKSnVnRzF4QUFGaFJlaXBnYUVBRVdCMXdaVVJaZ0FoWVNMQzV6V29BQkZoUnprOUphY0FBV0NpWm11WnBnQUJZSk9yd2dGYkFCRmhWQ3k5d2FFQVFXRlJOOHVCcVFBUllLUGR2YW1uQUFGZ24vYXBUYVlBSVdDMEd0S1pwUUFCWUxReWNsMnBBQUZoU1hrYVBhZ0FFV0ZSa1dWOXB3QUJZS0pFc2Rtb0FGRmhVNmFhU2FVQUVXREI0RVZOb1FBaFlMQWlqb1ZLQUFGaFNYeEREYU1BRVdGUTRDZXhwZ0FCWUhrQW1IbEZBQggABgAAAAAIAAcAAAADDAAICgABFgo929qacAAAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_lW1RNAJxAKAAMX-VbVEz9jwAgABAAAAAILAAUAAAKwRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUQ0V0VLWDlsQlJnQVJZS1BtSjlHcEFBRmhXSElRb2FrQUlXRWNQQzhocHdBaFlZUzkvVFdqQUZGZ2NGZk9kVnNBRVdGSUF2ekZvd0FSWVJqS1o3Mm9BQkZoSEVlVmRha0FVV0N3Qmg5WnBRQVJZSUQyMVJsNUFBRmc0NThhcVVVQUFXRktGdlFScUFBUllSOVhkU0dsQUFGZytUQTgwVlFBQVdGRThmTXhvQUFCWVF2MXV1RkZBQ0ZnL0s1T1NhZ0FBV0VZbGJBeG93QUJZT2Nsb2wybEFBRmdpS0hIMFdBQUFXRlJxWllCcHdBUllLbjk3VTFWQUFGaGRpMmc3YWdBQVdERFpXcVpxUUFCWUh4OUxQbDhBQUZnclA3eHRhTUFFV0RHTjREVm9RQUJZUW1qaUFsYkFCRmdrVUI4NGFBQUVXQ2gzN1R0cFFBaFlMYUphbmxGQUFGZ25PYlhrVUFBQVdGODcyaUJwd0FCWVAyZFNiV2dBQUZoU2c3cUFhTUFJV0RqbnkycFd3QVJZUEhVVlFtZ0FBRmdlUG1FMFZzQUFXQ3F1YjRsWkFBeFlKSnVnRzF4QUFGaFJlaXBnYUVBRVdCMXdaVVJaZ0FoWVNMQzV6V29BQkZoUnprOUphY0FBV0NpWm11WnBnQUJZSk9yd2dGYkFCRmhWQ3k5d2FFQVFXRlJOOHVCcVFBUllLUGR2YW1uQUFGZ24vYXBUYVlBSVdDMEd0S1pwUUFCWUxReWNsMnBBQUZoU1hrYVBhZ0FFV0ZSa1dWOXB3QUJZS0pFc2Rtb0FGRmhVNmFhU2FVQUVXREI0RVZOb1FBaFlMQWlqb1ZLQUFGaFNYeEREYU1BRVdGUTRDZXhwZ0FCWUhrQW1IbEZBQggABgAAAAAIAAcAAAADDAAICgABFgo929qacAAAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

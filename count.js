@@ -38,6 +38,9 @@ const run = async () => {
   const newCountLine = countLine.replace(/\d+/, count);
   const newReadme = readme.replace(countLine, newCountLine);
   await writeFile(__dirname + '/README.md', newReadme, 'utf8');
+
+  console.log(count);
+  console.log('Done');
 };
 
 run();

@@ -1,0 +1,2940 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1585361580702646272",
+                  "sortIndex": "1727507210658896112",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1585361580702646272",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjUzMDAzNDYx",
+                                "rest_id": "1253003461",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Fri Mar 08 23:46:27 +0000 2013",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Somatic Trauma Healing, Somatic Healing, Somatic Experiencing",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "maryscheibfnp.com",
+                                          "expanded_url": "http://maryscheibfnp.com",
+                                          "url": "https://t.co/70gG9jcKR1",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 48700,
+                                  "followers_count": 403,
+                                  "friends_count": 1314,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 7,
+                                  "location": "San Francisco",
+                                  "media_count": 66,
+                                  "name": "Mary Scheib",
+                                  "normal_followers_count": 403,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253003461/1409275525",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1651026103971225602/hooe5_8w_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "ScheibMary",
+                                  "statuses_count": 23428,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/70gG9jcKR1",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1585361580702646272"],
+                            "editable_until_msecs": "1666816430000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Wed Oct 26 20:03:50 +0000 2022",
+                            "conversation_id_str": "1585335466819485697",
+                            "display_text_range": [11, 68],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "3003886063",
+                                  "name": "Skyleigh Heinen",
+                                  "screen_name": "Sky_Lee_1",
+                                  "indices": [0, 10]
+                                },
+                                {
+                                  "id_str": "2149128326",
+                                  "name": "Cheri Beasley",
+                                  "screen_name": "CheriBeasleyNC",
+                                  "indices": [18, 33]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [11, 17],
+                                  "text": "ncpol"
+                                },
+                                {
+                                  "indices": [39, 58],
+                                  "text": "ProtectOurFreedoms"
+                                },
+                                {
+                                  "indices": [59, 68],
+                                  "text": "WeDecide"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "@Sky_Lee_1 #ncpol @CheriBeasleyNC will #ProtectOurFreedoms #WeDecide",
+                            "in_reply_to_screen_name": "Sky_Lee_1",
+                            "in_reply_to_status_id_str": "1585335466819485697",
+                            "in_reply_to_user_id_str": "3003886063",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1253003461",
+                            "id_str": "1585361580702646272"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 59,
+                            "endIndex": 68
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACaWL1WAqdQDcKAAV2eRuEEY6QLAgABgAAAAEKAAepaA+qfRgLuAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1583978434933686272",
+                  "sortIndex": "1727507210658896102",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1583978434933686272",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxNDQyMjAwNDk3NDk1MDIzNjIy",
+                                "rest_id": "1442200497495023622",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Sun Sep 26 18:53:02 +0000 2021",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Boto Ko is an application for Philippine elections where you can list, update, and share the candidates you want to vote for. #BotoKo",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "botoko.app",
+                                          "expanded_url": "https://www.botoko.app",
+                                          "url": "https://t.co/xPsNg46FKZ",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 2,
+                                  "followers_count": 10,
+                                  "friends_count": 12,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 0,
+                                  "location": "",
+                                  "media_count": 79,
+                                  "name": "Boto Ko",
+                                  "normal_followers_count": 10,
+                                  "pinned_tweet_ids_str": ["1640881504774680581"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442200497495023622/1632682694",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442201404651630594/e8i9mr9v_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "BotoKoApp",
+                                  "statuses_count": 1243,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/xPsNg46FKZ",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1583978434933686272"],
+                            "editable_until_msecs": "1666486662000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                          "quoted_status_result": {
+                            "result": {
+                              "__typename": "Tweet",
+                              "rest_id": "1583748813486837762",
+                              "core": {
+                                "user_results": {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoyOTMzMDA2NDY=",
+                                    "rest_id": "293300646",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": false,
+                                    "profile_image_shape": "Square",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu May 05 03:16:49 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Maintained by the Commission on Elections Education and Information Department.",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "comelec.gov.ph",
+                                              "expanded_url": "http://www.comelec.gov.ph",
+                                              "url": "https://t.co/B6vlsI5tsF",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 645,
+                                      "followers_count": 175062,
+                                      "friends_count": 406,
+                                      "has_custom_timelines": false,
+                                      "is_translator": false,
+                                      "listed_count": 395,
+                                      "location": "Intramuros, Manila",
+                                      "media_count": 3847,
+                                      "name": "COMELEC",
+                                      "normal_followers_count": 175062,
+                                      "pinned_tweet_ids_str": [],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/293300646/1683252021",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1659370863366664194/tzuc9ZU9_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "COMELEC",
+                                      "statuses_count": 10528,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/B6vlsI5tsF",
+                                      "verified": false,
+                                      "verified_type": "Government",
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    }
+                                  }
+                                }
+                              },
+                              "unmention_data": {},
+                              "edit_control": {
+                                "edit_tweet_ids": ["1583748813486837762"],
+                                "editable_until_msecs": "1666431916000",
+                                "is_edit_eligible": true,
+                                "edits_remaining": "5"
+                              },
+                              "is_translatable": false,
+                              "views": {
+                                "state": "Enabled"
+                              },
+                              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                              "legacy": {
+                                "bookmark_count": 0,
+                                "bookmarked": false,
+                                "created_at": "Sat Oct 22 09:15:16 +0000 2022",
+                                "conversation_id_str": "1583748813486837762",
+                                "display_text_range": [0, 197],
+                                "entities": {
+                                  "media": [
+                                    {
+                                      "display_url": "pic.twitter.com/h2bvZuhemH",
+                                      "expanded_url": "https://twitter.com/COMELEC/status/1583748813486837762/photo/1",
+                                      "id_str": "1583748804611780608",
+                                      "indices": [198, 221],
+                                      "media_key": "3_1583748804611780608",
+                                      "media_url_https": "https://pbs.twimg.com/media/FfqbJZBVsAA1HJS.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/h2bvZuhemH",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": []
+                                        },
+                                        "medium": {
+                                          "faces": []
+                                        },
+                                        "small": {
+                                          "faces": []
+                                        },
+                                        "orig": {
+                                          "faces": []
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 1754,
+                                          "w": 1241,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 1200,
+                                          "w": 849,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 680,
+                                          "w": 481,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 1754,
+                                        "width": 1241,
+                                        "focus_rects": [
+                                          {
+                                            "x": 0,
+                                            "y": 135,
+                                            "w": 1241,
+                                            "h": 695
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1241,
+                                            "h": 1241
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1241,
+                                            "h": 1415
+                                          },
+                                          {
+                                            "x": 364,
+                                            "y": 0,
+                                            "w": 877,
+                                            "h": 1754
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1241,
+                                            "h": 1754
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  ],
+                                  "user_mentions": [],
+                                  "urls": [],
+                                  "hashtags": [],
+                                  "symbols": []
+                                },
+                                "extended_entities": {
+                                  "media": [
+                                    {
+                                      "display_url": "pic.twitter.com/h2bvZuhemH",
+                                      "expanded_url": "https://twitter.com/COMELEC/status/1583748813486837762/photo/1",
+                                      "id_str": "1583748804611780608",
+                                      "indices": [198, 221],
+                                      "media_key": "3_1583748804611780608",
+                                      "media_url_https": "https://pbs.twimg.com/media/FfqbJZBVsAA1HJS.jpg",
+                                      "type": "photo",
+                                      "url": "https://t.co/h2bvZuhemH",
+                                      "ext_media_availability": {
+                                        "status": "Available"
+                                      },
+                                      "features": {
+                                        "large": {
+                                          "faces": []
+                                        },
+                                        "medium": {
+                                          "faces": []
+                                        },
+                                        "small": {
+                                          "faces": []
+                                        },
+                                        "orig": {
+                                          "faces": []
+                                        }
+                                      },
+                                      "sizes": {
+                                        "large": {
+                                          "h": 1754,
+                                          "w": 1241,
+                                          "resize": "fit"
+                                        },
+                                        "medium": {
+                                          "h": 1200,
+                                          "w": 849,
+                                          "resize": "fit"
+                                        },
+                                        "small": {
+                                          "h": 680,
+                                          "w": 481,
+                                          "resize": "fit"
+                                        },
+                                        "thumb": {
+                                          "h": 150,
+                                          "w": 150,
+                                          "resize": "crop"
+                                        }
+                                      },
+                                      "original_info": {
+                                        "height": 1754,
+                                        "width": 1241,
+                                        "focus_rects": [
+                                          {
+                                            "x": 0,
+                                            "y": 135,
+                                            "w": 1241,
+                                            "h": 695
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1241,
+                                            "h": 1241
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1241,
+                                            "h": 1415
+                                          },
+                                          {
+                                            "x": 364,
+                                            "y": 0,
+                                            "w": 877,
+                                            "h": 1754
+                                          },
+                                          {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1241,
+                                            "h": 1754
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  ]
+                                },
+                                "favorite_count": 20,
+                                "favorited": false,
+                                "full_text": "Press Statement Re: Rationale for the Suspension of the Filing of COCs on October 22-29, 2022 and Other Activities and Prohibited Acts under the Calendar of Activities for the December 5, 2022 BSKE https://t.co/h2bvZuhemH",
+                                "is_quote_status": false,
+                                "lang": "en",
+                                "possibly_sensitive": false,
+                                "possibly_sensitive_editable": true,
+                                "quote_count": 2,
+                                "reply_count": 3,
+                                "retweet_count": 11,
+                                "retweeted": false,
+                                "user_id_str": "293300646",
+                                "id_str": "1583748813486837762"
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Sun Oct 23 00:27:42 +0000 2022",
+                            "conversation_id_str": "1583978434933686272",
+                            "display_text_range": [0, 277],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "293300646",
+                                  "name": "COMELEC",
+                                  "screen_name": "COMELEC",
+                                  "indices": [19, 27]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [205, 212],
+                                  "text": "BotoKo"
+                                },
+                                {
+                                  "indices": [213, 222],
+                                  "text": "BSKE2022"
+                                },
+                                {
+                                  "indices": [223, 235],
+                                  "text": "Halalan2022"
+                                },
+                                {
+                                  "indices": [236, 249],
+                                  "text": "Eleksyon2022"
+                                },
+                                {
+                                  "indices": [250, 257],
+                                  "text": "PHVote"
+                                },
+                                {
+                                  "indices": [258, 277],
+                                  "text": "BilangPilipino2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "Press Statement of @COMELEC Re: Rationale for the Suspension of the Filing of COCs on October 22-29, 2022 and Other Activities and Prohibited Acts under the Calendar of Activities for the December 5 BSKE\n\n#BotoKo #BSKE2022 #Halalan2022 #Eleksyon2022 #PHVote #BilangPilipino2022",
+                            "is_quote_status": true,
+                            "lang": "en",
+                            "quote_count": 0,
+                            "quoted_status_id_str": "1583748813486837762",
+                            "quoted_status_permalink": {
+                              "url": "https://t.co/qtdQateOKH",
+                              "expanded": "https://twitter.com/COMELEC/status/1583748813486837762",
+                              "display": "twitter.com/COMELEC/status…"
+                            },
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1442200497495023622",
+                            "id_str": "1583978434933686272"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 223,
+                            "endIndex": 235
+                          },
+                          {
+                            "startIndex": 250,
+                            "endIndex": 257
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACaWL1WAqdQDcKAAV2eRuEEY6QLAgABgAAAAEKAAepaA+qfRgLuAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1584932365197275137",
+                  "sortIndex": "1727507210658896092",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1584932365197275137",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoyNTMzOTg3ODA=",
+                                "rest_id": "253398780",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Thu Feb 17 04:41:05 +0000 2011",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Political animal. Writes & talks politics, public policies, legislation. House Fellow, COS & Consultant. Coffee+Tech lover. Proud La Sallian! NCPAG Kong Mahal!",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 21033,
+                                  "followers_count": 6994,
+                                  "friends_count": 6144,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 49,
+                                  "location": "Quezon City, NCR",
+                                  "media_count": 5215,
+                                  "name": "Albert C. Lim \uD83C\uDDF5\uD83C\uDDED",
+                                  "normal_followers_count": 6994,
+                                  "pinned_tweet_ids_str": ["1725418403769541059"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/253398780/1662398277",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080018916003303424/h-mfcbhQ_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "limbertqc",
+                                  "statuses_count": 151660,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1614152338989813766",
+                                  "professional_type": "Creator",
+                                  "category": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1584932365197275137"],
+                            "editable_until_msecs": "1666714097000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": true,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "quoted_status_result": {
+                            "result": {
+                              "__typename": "Tweet",
+                              "rest_id": "1584844812037263360",
+                              "core": {
+                                "user_results": {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjo3NzY2MjIyOTIwMjU2MDYxNDU=",
+                                    "rest_id": "776622292025606145",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": false,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Fri Sep 16 03:22:38 +0000 2016",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "This is the official Twitter account of RMN's AM Manila station, DZXL 558 kHz",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rmn.ph",
+                                              "expanded_url": "http://rmn.ph",
+                                              "url": "https://t.co/7dfkJ9fjjj",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 322,
+                                      "followers_count": 1802,
+                                      "friends_count": 163,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 38,
+                                      "location": "Republic of the Philippines",
+                                      "media_count": 27095,
+                                      "name": "DZXL News",
+                                      "normal_followers_count": 1802,
+                                      "pinned_tweet_ids_str": [],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/776622292025606145/1693185135",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1715611968504250368/h16-pGB5_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "DZXL_News",
+                                      "statuses_count": 157085,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/7dfkJ9fjjj",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    }
+                                  }
+                                }
+                              },
+                              "card": {
+                                "rest_id": "https://t.co/unIDPxenzs",
+                                "legacy": {
+                                  "binding_values": [
+                                    {
+                                      "key": "description",
+                                      "value": {
+                                        "string_value": "Ibinunyag ni dating Department of Health (DOH) Secretary at ngayon ay Iloilo Representative Janette Garin na ang posisyon bilang kalihim ng DOH ay inalok sa ilang mga doktor ngunit tinanggihan nila...",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "domain",
+                                      "value": {
+                                        "string_value": "rmn.ph",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "site",
+                                      "value": {
+                                        "scribe_key": "publisher_id",
+                                        "type": "USER",
+                                        "user_value": {
+                                          "id_str": "841897563724886016",
+                                          "path": []
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "key": "creator",
+                                      "value": {
+                                        "type": "USER",
+                                        "user_value": {
+                                          "id_str": "841897563724886016",
+                                          "path": []
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "key": "vanity_url",
+                                      "value": {
+                                        "scribe_key": "vanity_url",
+                                        "string_value": "rmn.ph",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "title",
+                                      "value": {
+                                        "string_value": "Pagiging kalihim ng DOH, inalok sa ilang kwalipikadong doktor - kongresista - RMN Networks",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "card_url",
+                                      "value": {
+                                        "scribe_key": "card_url",
+                                        "string_value": "https://t.co/unIDPxenzs",
+                                        "type": "STRING"
+                                      }
+                                    }
+                                  ],
+                                  "card_platform": {
+                                    "platform": {
+                                      "audience": {
+                                        "name": "production"
+                                      },
+                                      "device": {
+                                        "name": "Swift",
+                                        "version": "12"
+                                      }
+                                    }
+                                  },
+                                  "name": "summary_large_image",
+                                  "url": "https://t.co/unIDPxenzs",
+                                  "user_refs_results": [
+                                    {
+                                      "result": {
+                                        "__typename": "User",
+                                        "id": "VXNlcjo4NDE4OTc1NjM3MjQ4ODYwMTY=",
+                                        "rest_id": "841897563724886016",
+                                        "affiliates_highlighted_label": {},
+                                        "has_graduated_access": true,
+                                        "is_blue_verified": false,
+                                        "profile_image_shape": "Circle",
+                                        "legacy": {
+                                          "can_dm": false,
+                                          "can_media_tag": false,
+                                          "created_at": "Wed Mar 15 06:23:15 +0000 2017",
+                                          "default_profile": true,
+                                          "default_profile_image": false,
+                                          "description": "Reaching Millions Nationwide",
+                                          "entities": {
+                                            "description": {
+                                              "urls": []
+                                            },
+                                            "url": {
+                                              "urls": [
+                                                {
+                                                  "display_url": "rmn.ph",
+                                                  "expanded_url": "http://rmn.ph",
+                                                  "url": "https://t.co/DckmLEZdor",
+                                                  "indices": [0, 23]
+                                                }
+                                              ]
+                                            }
+                                          },
+                                          "fast_followers_count": 0,
+                                          "favourites_count": 0,
+                                          "followers_count": 445,
+                                          "friends_count": 2,
+                                          "has_custom_timelines": false,
+                                          "is_translator": false,
+                                          "listed_count": 4,
+                                          "location": "",
+                                          "media_count": 4146,
+                                          "name": "RMN Networks",
+                                          "normal_followers_count": 445,
+                                          "pinned_tweet_ids_str": [],
+                                          "possibly_sensitive": false,
+                                          "profile_banner_url": "https://pbs.twimg.com/profile_banners/841897563724886016/1489560535",
+                                          "profile_image_url_https": "https://pbs.twimg.com/profile_images/841900874691665921/xMKDlOHc_normal.jpg",
+                                          "profile_interstitial_type": "",
+                                          "screen_name": "rmnnetworks",
+                                          "statuses_count": 56452,
+                                          "translator_type": "none",
+                                          "url": "https://t.co/DckmLEZdor",
+                                          "verified": false,
+                                          "want_retweets": false,
+                                          "withheld_in_countries": []
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "result": {
+                                        "__typename": "User",
+                                        "id": "VXNlcjo4NDE4OTc1NjM3MjQ4ODYwMTY=",
+                                        "rest_id": "841897563724886016",
+                                        "affiliates_highlighted_label": {},
+                                        "has_graduated_access": true,
+                                        "is_blue_verified": false,
+                                        "profile_image_shape": "Circle",
+                                        "legacy": {
+                                          "can_dm": false,
+                                          "can_media_tag": false,
+                                          "created_at": "Wed Mar 15 06:23:15 +0000 2017",
+                                          "default_profile": true,
+                                          "default_profile_image": false,
+                                          "description": "Reaching Millions Nationwide",
+                                          "entities": {
+                                            "description": {
+                                              "urls": []
+                                            },
+                                            "url": {
+                                              "urls": [
+                                                {
+                                                  "display_url": "rmn.ph",
+                                                  "expanded_url": "http://rmn.ph",
+                                                  "url": "https://t.co/DckmLEZdor",
+                                                  "indices": [0, 23]
+                                                }
+                                              ]
+                                            }
+                                          },
+                                          "fast_followers_count": 0,
+                                          "favourites_count": 0,
+                                          "followers_count": 445,
+                                          "friends_count": 2,
+                                          "has_custom_timelines": false,
+                                          "is_translator": false,
+                                          "listed_count": 4,
+                                          "location": "",
+                                          "media_count": 4146,
+                                          "name": "RMN Networks",
+                                          "normal_followers_count": 445,
+                                          "pinned_tweet_ids_str": [],
+                                          "possibly_sensitive": false,
+                                          "profile_banner_url": "https://pbs.twimg.com/profile_banners/841897563724886016/1489560535",
+                                          "profile_image_url_https": "https://pbs.twimg.com/profile_images/841900874691665921/xMKDlOHc_normal.jpg",
+                                          "profile_interstitial_type": "",
+                                          "screen_name": "rmnnetworks",
+                                          "statuses_count": 56452,
+                                          "translator_type": "none",
+                                          "url": "https://t.co/DckmLEZdor",
+                                          "verified": false,
+                                          "want_retweets": false,
+                                          "withheld_in_countries": []
+                                        }
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              "unmention_data": {},
+                              "unified_card": {
+                                "card_fetch_state": "NoCard"
+                              },
+                              "edit_control": {
+                                "edit_tweet_ids": ["1584844812037263360"],
+                                "editable_until_msecs": "1666693222000",
+                                "is_edit_eligible": true,
+                                "edits_remaining": "5"
+                              },
+                              "is_translatable": false,
+                              "views": {
+                                "state": "Enabled"
+                              },
+                              "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                              "legacy": {
+                                "bookmark_count": 0,
+                                "bookmarked": false,
+                                "created_at": "Tue Oct 25 09:50:22 +0000 2022",
+                                "conversation_id_str": "1584844812037263360",
+                                "display_text_range": [0, 116],
+                                "entities": {
+                                  "user_mentions": [
+                                    {
+                                      "id_str": "841897563724886016",
+                                      "name": "RMN Networks",
+                                      "screen_name": "rmnnetworks",
+                                      "indices": [104, 116]
+                                    }
+                                  ],
+                                  "urls": [
+                                    {
+                                      "display_url": "rmn.ph/pagiging-kalih…",
+                                      "expanded_url": "https://rmn.ph/pagiging-kalihim-ng-doh-inalok-sa-ilang-kwalipikadong-doktor-kongresista/",
+                                      "url": "https://t.co/unIDPxenzs",
+                                      "indices": [76, 99]
+                                    }
+                                  ],
+                                  "hashtags": [],
+                                  "symbols": []
+                                },
+                                "favorite_count": 0,
+                                "favorited": false,
+                                "full_text": "Pagiging kalihim ng DOH, inalok sa ilang kwalipikadong doktor – kongresista https://t.co/unIDPxenzs via @RMNNetworks",
+                                "is_quote_status": false,
+                                "lang": "tl",
+                                "possibly_sensitive": false,
+                                "possibly_sensitive_editable": true,
+                                "quote_count": 1,
+                                "reply_count": 0,
+                                "retweet_count": 0,
+                                "retweeted": false,
+                                "user_id_str": "776622292025606145",
+                                "id_str": "1584844812037263360"
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Tue Oct 25 15:38:17 +0000 2022",
+                            "conversation_id_str": "1584932365197275137",
+                            "display_text_range": [0, 116],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [60, 72],
+                                  "text": "Halalan2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 1,
+                            "favorited": false,
+                            "full_text": "Baka naman hinihintay lang yung talunan sa pagka-bise noong #Halalan2022. Sayang din ang YouTube followers noon. \uD83E\uDD23\uD83E\uDD23\uD83E\uDD23",
+                            "is_quote_status": true,
+                            "lang": "tl",
+                            "quote_count": 0,
+                            "quoted_status_id_str": "1584844812037263360",
+                            "quoted_status_permalink": {
+                              "url": "https://t.co/YpcF0bOJLx",
+                              "expanded": "https://twitter.com/DZXL_News/status/1584844812037263360",
+                              "display": "twitter.com/DZXL_News/stat…"
+                            },
+                            "reply_count": 0,
+                            "retweet_count": 1,
+                            "retweeted": false,
+                            "user_id_str": "253398780",
+                            "id_str": "1584932365197275137"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 60,
+                            "endIndex": 72
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACaWL1WAqdQDcKAAV2eRuEEY6QLAgABgAAAAEKAAepaA+qfRgLuAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1583662016958730240",
+                  "sortIndex": "1727507210658896082",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1583662016958730240",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxNDQyMjAwNDk3NDk1MDIzNjIy",
+                                "rest_id": "1442200497495023622",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Sun Sep 26 18:53:02 +0000 2021",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Boto Ko is an application for Philippine elections where you can list, update, and share the candidates you want to vote for. #BotoKo",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "botoko.app",
+                                          "expanded_url": "https://www.botoko.app",
+                                          "url": "https://t.co/xPsNg46FKZ",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 2,
+                                  "followers_count": 10,
+                                  "friends_count": 12,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 0,
+                                  "location": "",
+                                  "media_count": 79,
+                                  "name": "Boto Ko",
+                                  "normal_followers_count": 10,
+                                  "pinned_tweet_ids_str": ["1640881504774680581"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442200497495023622/1632682694",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442201404651630594/e8i9mr9v_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "BotoKoApp",
+                                  "statuses_count": 1243,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/xPsNg46FKZ",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1583662016958730240"],
+                            "editable_until_msecs": "1666411222000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": true,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                          "quoted_status_result": {
+                            "result": {
+                              "__typename": "Tweet",
+                              "rest_id": "1583450533339303936",
+                              "core": {
+                                "user_results": {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoxNTg3MjQxOA==",
+                                    "rest_id": "15872418",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "following": true,
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Sat Aug 16 10:09:33 +0000 2008",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Stories, video, and multimedia for Filipinos worldwide, from ABS-CBN News and Current Affairs",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "news.abs-cbn.com",
+                                              "expanded_url": "http://news.abs-cbn.com",
+                                              "url": "https://t.co/9yfQzgdOPD",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 1186,
+                                      "followers_count": 9105595,
+                                      "friends_count": 1080,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 8605,
+                                      "location": "Manila, Philippines",
+                                      "media_count": 240992,
+                                      "name": "ABS-CBN News",
+                                      "normal_followers_count": 9105595,
+                                      "pinned_tweet_ids_str": [],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15872418/1690389389",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414904727674920961/aRgHKXj5_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "ABSCBNNews",
+                                      "statuses_count": 1101922,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/9yfQzgdOPD",
+                                      "verified": false,
+                                      "want_retweets": true,
+                                      "withheld_in_countries": []
+                                    }
+                                  }
+                                }
+                              },
+                              "card": {
+                                "rest_id": "https://t.co/0AcCHCV8LE",
+                                "legacy": {
+                                  "binding_values": [
+                                    {
+                                      "key": "photo_image_full_size_large",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 419,
+                                          "width": 800,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=800x419"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 150,
+                                          "width": 225,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=280x150"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "description",
+                                      "value": {
+                                        "string_value": "Giniit ni Solicitor General Menardo Guevarra na walang paglabag sa Konstitusyon ang batas na nagpapaliban sa halalang pambarangay sa susunod na taon.",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "domain",
+                                      "value": {
+                                        "string_value": "news.abs-cbn.com",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_large",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 320,
+                                          "width": 480,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=800x320_1"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "summary_photo_image_small",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 202,
+                                          "width": 386,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=386x202"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_original",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 633,
+                                          "width": 950,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=orig"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "site",
+                                      "value": {
+                                        "scribe_key": "publisher_id",
+                                        "type": "USER",
+                                        "user_value": {
+                                          "id_str": "15872418",
+                                          "path": []
+                                        }
+                                      }
+                                    },
+                                    {
+                                      "key": "photo_image_full_size_small",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 202,
+                                          "width": 386,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=386x202"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "summary_photo_image_large",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 419,
+                                          "width": 800,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=800x419"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_small",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 67,
+                                          "width": 100,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=100x100"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_x_large",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 633,
+                                          "width": 950,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=png&name=2048x2048_2_exp"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "photo_image_full_size_original",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 633,
+                                          "width": 950,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=orig"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "photo_image_full_size_alt_text",
+                                      "value": {
+                                        "string_value": "'Hindi labag sa Saligang Batas ang pagpapaliban sa barangay polls'",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "vanity_url",
+                                      "value": {
+                                        "scribe_key": "vanity_url",
+                                        "string_value": "news.abs-cbn.com",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "photo_image_full_size",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 314,
+                                          "width": 600,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=600x314"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "summary_photo_image_alt_text",
+                                      "value": {
+                                        "string_value": "'Hindi labag sa Saligang Batas ang pagpapaliban sa barangay polls'",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_color",
+                                      "value": {
+                                        "image_color_value": {
+                                          "palette": [
+                                            {
+                                              "rgb": {
+                                                "blue": 167,
+                                                "green": 159,
+                                                "red": 162
+                                              },
+                                              "percentage": 41.61
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 30,
+                                                "green": 26,
+                                                "red": 25
+                                              },
+                                              "percentage": 18.34
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 32,
+                                                "green": 54,
+                                                "red": 92
+                                              },
+                                              "percentage": 11.87
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 109,
+                                                "green": 52,
+                                                "red": 60
+                                              },
+                                              "percentage": 7.22
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 55,
+                                                "green": 46,
+                                                "red": 124
+                                              },
+                                              "percentage": 3.69
+                                            }
+                                          ]
+                                        },
+                                        "type": "IMAGE_COLOR"
+                                      }
+                                    },
+                                    {
+                                      "key": "title",
+                                      "value": {
+                                        "string_value": "'Hindi labag sa Saligang Batas ang pagpapaliban sa barangay polls'",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "summary_photo_image_color",
+                                      "value": {
+                                        "image_color_value": {
+                                          "palette": [
+                                            {
+                                              "rgb": {
+                                                "blue": 167,
+                                                "green": 159,
+                                                "red": 162
+                                              },
+                                              "percentage": 41.61
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 30,
+                                                "green": 26,
+                                                "red": 25
+                                              },
+                                              "percentage": 18.34
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 32,
+                                                "green": 54,
+                                                "red": 92
+                                              },
+                                              "percentage": 11.87
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 109,
+                                                "green": 52,
+                                                "red": 60
+                                              },
+                                              "percentage": 7.22
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 55,
+                                                "green": 46,
+                                                "red": 124
+                                              },
+                                              "percentage": 3.69
+                                            }
+                                          ]
+                                        },
+                                        "type": "IMAGE_COLOR"
+                                      }
+                                    },
+                                    {
+                                      "key": "summary_photo_image_x_large",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 633,
+                                          "width": 950,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=png&name=2048x2048_2_exp"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "summary_photo_image",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 314,
+                                          "width": 600,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=600x314"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "photo_image_full_size_color",
+                                      "value": {
+                                        "image_color_value": {
+                                          "palette": [
+                                            {
+                                              "rgb": {
+                                                "blue": 167,
+                                                "green": 159,
+                                                "red": 162
+                                              },
+                                              "percentage": 41.61
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 30,
+                                                "green": 26,
+                                                "red": 25
+                                              },
+                                              "percentage": 18.34
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 32,
+                                                "green": 54,
+                                                "red": 92
+                                              },
+                                              "percentage": 11.87
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 109,
+                                                "green": 52,
+                                                "red": 60
+                                              },
+                                              "percentage": 7.22
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 55,
+                                                "green": 46,
+                                                "red": 124
+                                              },
+                                              "percentage": 3.69
+                                            }
+                                          ]
+                                        },
+                                        "type": "IMAGE_COLOR"
+                                      }
+                                    },
+                                    {
+                                      "key": "photo_image_full_size_x_large",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 633,
+                                          "width": 950,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=png&name=2048x2048_2_exp"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "card_url",
+                                      "value": {
+                                        "scribe_key": "card_url",
+                                        "string_value": "https://t.co/0AcCHCV8LE",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "summary_photo_image_original",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 633,
+                                          "width": 950,
+                                          "url": "https://pbs.twimg.com/card_img/1727225843246624768/FVEPDSBE?format=jpg&name=orig"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    }
+                                  ],
+                                  "card_platform": {
+                                    "platform": {
+                                      "audience": {
+                                        "name": "production"
+                                      },
+                                      "device": {
+                                        "name": "Swift",
+                                        "version": "12"
+                                      }
+                                    }
+                                  },
+                                  "name": "summary_large_image",
+                                  "url": "https://t.co/0AcCHCV8LE",
+                                  "user_refs_results": [
+                                    {
+                                      "result": {
+                                        "__typename": "User",
+                                        "id": "VXNlcjoxNTg3MjQxOA==",
+                                        "rest_id": "15872418",
+                                        "affiliates_highlighted_label": {},
+                                        "has_graduated_access": true,
+                                        "is_blue_verified": true,
+                                        "profile_image_shape": "Circle",
+                                        "legacy": {
+                                          "following": true,
+                                          "can_dm": false,
+                                          "can_media_tag": false,
+                                          "created_at": "Sat Aug 16 10:09:33 +0000 2008",
+                                          "default_profile": false,
+                                          "default_profile_image": false,
+                                          "description": "Stories, video, and multimedia for Filipinos worldwide, from ABS-CBN News and Current Affairs",
+                                          "entities": {
+                                            "description": {
+                                              "urls": []
+                                            },
+                                            "url": {
+                                              "urls": [
+                                                {
+                                                  "display_url": "news.abs-cbn.com",
+                                                  "expanded_url": "http://news.abs-cbn.com",
+                                                  "url": "https://t.co/9yfQzgdOPD",
+                                                  "indices": [0, 23]
+                                                }
+                                              ]
+                                            }
+                                          },
+                                          "fast_followers_count": 0,
+                                          "favourites_count": 1186,
+                                          "followers_count": 9105595,
+                                          "friends_count": 1080,
+                                          "has_custom_timelines": true,
+                                          "is_translator": false,
+                                          "listed_count": 8605,
+                                          "location": "Manila, Philippines",
+                                          "media_count": 240992,
+                                          "name": "ABS-CBN News",
+                                          "normal_followers_count": 9105595,
+                                          "pinned_tweet_ids_str": [],
+                                          "possibly_sensitive": false,
+                                          "profile_banner_url": "https://pbs.twimg.com/profile_banners/15872418/1690389389",
+                                          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414904727674920961/aRgHKXj5_normal.jpg",
+                                          "profile_interstitial_type": "",
+                                          "screen_name": "ABSCBNNews",
+                                          "statuses_count": 1101922,
+                                          "translator_type": "regular",
+                                          "url": "https://t.co/9yfQzgdOPD",
+                                          "verified": false,
+                                          "want_retweets": true,
+                                          "withheld_in_countries": []
+                                        }
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              "unmention_data": {},
+                              "unified_card": {
+                                "card_fetch_state": "NoCard"
+                              },
+                              "edit_control": {
+                                "edit_tweet_ids": ["1583450533339303936"],
+                                "editable_until_msecs": "1666360800000",
+                                "is_edit_eligible": true,
+                                "edits_remaining": "5"
+                              },
+                              "is_translatable": true,
+                              "views": {
+                                "state": "Enabled"
+                              },
+                              "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                              "legacy": {
+                                "bookmark_count": 0,
+                                "bookmarked": false,
+                                "created_at": "Fri Oct 21 13:30:00 +0000 2022",
+                                "conversation_id_str": "1583450533339303936",
+                                "display_text_range": [0, 101],
+                                "entities": {
+                                  "user_mentions": [],
+                                  "urls": [
+                                    {
+                                      "display_url": "news.abs-cbn.com/news/10/21/22/…",
+                                      "expanded_url": "https://news.abs-cbn.com/news/10/21/22/hindi-labag-sa-saligang-batas-ang-pagpapaliban-sa-barangay-polls",
+                                      "url": "https://t.co/0AcCHCV8LE",
+                                      "indices": [78, 101]
+                                    }
+                                  ],
+                                  "hashtags": [],
+                                  "symbols": []
+                                },
+                                "favorite_count": 0,
+                                "favorited": false,
+                                "full_text": "Hindi labag sa Saligang Batas ang pagpapaliban sa barangay elections: SolGen\n\nhttps://t.co/0AcCHCV8LE",
+                                "is_quote_status": false,
+                                "lang": "tl",
+                                "possibly_sensitive": false,
+                                "possibly_sensitive_editable": true,
+                                "quote_count": 1,
+                                "reply_count": 0,
+                                "retweet_count": 1,
+                                "retweeted": false,
+                                "user_id_str": "15872418",
+                                "id_str": "1583450533339303936"
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Sat Oct 22 03:30:22 +0000 2022",
+                            "conversation_id_str": "1583662016958730240",
+                            "display_text_range": [0, 150],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [78, 85],
+                                  "text": "BotoKo"
+                                },
+                                {
+                                  "indices": [86, 95],
+                                  "text": "BSKE2022"
+                                },
+                                {
+                                  "indices": [96, 108],
+                                  "text": "Halalan2022"
+                                },
+                                {
+                                  "indices": [109, 122],
+                                  "text": "Eleksyon2022"
+                                },
+                                {
+                                  "indices": [123, 130],
+                                  "text": "PHVote"
+                                },
+                                {
+                                  "indices": [131, 150],
+                                  "text": "BilangPilipino2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "Hindi labag sa Saligang Batas ang pagpapaliban sa barangay elections: SolGen\n\n#BotoKo #BSKE2022 #Halalan2022 #Eleksyon2022 #PHVote #BilangPilipino2022",
+                            "is_quote_status": true,
+                            "lang": "tl",
+                            "quote_count": 0,
+                            "quoted_status_id_str": "1583450533339303936",
+                            "quoted_status_permalink": {
+                              "url": "https://t.co/PzV8dsJfXu",
+                              "expanded": "https://twitter.com/ABSCBNNews/status/1583450533339303936",
+                              "display": "twitter.com/ABSCBNNews/sta…"
+                            },
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1442200497495023622",
+                            "id_str": "1583662016958730240"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 96,
+                            "endIndex": 108
+                          },
+                          {
+                            "startIndex": 123,
+                            "endIndex": 130
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACaWL1WAqdQDcKAAV2eRuEEY6QLAgABgAAAAEKAAepaA+qfRgLuAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1582923201390120962",
+                  "sortIndex": "1727507210658896072",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1582923201390120962",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjUzMDAzNDYx",
+                                "rest_id": "1253003461",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Fri Mar 08 23:46:27 +0000 2013",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Somatic Trauma Healing, Somatic Healing, Somatic Experiencing",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "maryscheibfnp.com",
+                                          "expanded_url": "http://maryscheibfnp.com",
+                                          "url": "https://t.co/70gG9jcKR1",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 48700,
+                                  "followers_count": 403,
+                                  "friends_count": 1314,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 7,
+                                  "location": "San Francisco",
+                                  "media_count": 66,
+                                  "name": "Mary Scheib",
+                                  "normal_followers_count": 403,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253003461/1409275525",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1651026103971225602/hooe5_8w_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "ScheibMary",
+                                  "statuses_count": 23428,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/70gG9jcKR1",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1582923201390120962"],
+                            "editable_until_msecs": "1666235075000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Thu Oct 20 02:34:35 +0000 2022",
+                            "conversation_id_str": "1582907956542132224",
+                            "display_text_range": [10, 53],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "939091",
+                                  "name": "Joe Biden",
+                                  "screen_name": "JoeBiden",
+                                  "indices": [0, 9]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [10, 19],
+                                  "text": "WeDecide"
+                                },
+                                {
+                                  "indices": [20, 39],
+                                  "text": "ProtectOurFreedoms"
+                                },
+                                {
+                                  "indices": [40, 53],
+                                  "text": "VoteBlue2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "@JoeBiden #WeDecide #ProtectOurFreedoms #VoteBlue2022",
+                            "in_reply_to_screen_name": "JoeBiden",
+                            "in_reply_to_status_id_str": "1582907956542132224",
+                            "in_reply_to_user_id_str": "939091",
+                            "is_quote_status": false,
+                            "lang": "qme",
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1253003461",
+                            "id_str": "1582923201390120962"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 10,
+                            "endIndex": 19
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACaWL1WAqdQDcKAAV2eRuEEY6QLAgABgAAAAEKAAepaA+qfRgLuAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1581917247773122561",
+                  "sortIndex": "1727507210658896062",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1581917247773122561",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjozMzA4MjY3OTI=",
+                                "rest_id": "330826792",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "rappler.com",
+                                          "expanded_url": "http://www.rappler.com",
+                                          "url": "https://t.co/81BJWWR4KN",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 7799,
+                                  "followers_count": 3722944,
+                                  "friends_count": 431,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 4945,
+                                  "location": "Philippines",
+                                  "media_count": 245330,
+                                  "name": "Rappler",
+                                  "normal_followers_count": 3722944,
+                                  "pinned_tweet_ids_str": ["1701551287421284398"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "rapplerdotcom",
+                                  "statuses_count": 1028928,
+                                  "translator_type": "regular",
+                                  "url": "https://t.co/81BJWWR4KN",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "professional": {
+                                  "rest_id": "1453298946147856390",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 580,
+                                      "name": "Media & News Company",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/MgdZA8cRlH",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "Lawyer Romulo Macalintal says only the Comelec, not Congress, has the authority to postpone the village and youth elections",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "creator",
+                                  "value": {
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "224265209",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "SC asked to declare as unconstitutional law postponing barangay, SK polls",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/MgdZA8cRlH",
+                                    "type": "STRING"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/MgdZA8cRlH",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoyMjQyNjUyMDk=",
+                                    "rest_id": "224265209",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": false,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Wed Dec 08 15:32:35 +0000 2010",
+                                      "default_profile": true,
+                                      "default_profile_image": false,
+                                      "description": "Managing Editor, @rapplerdotcom. Campaigns, elections, local gov't.",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "https://www.rappler.com",
+                                              "url": "https://t.co/Cp3qRtKSoO",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 4761,
+                                      "followers_count": 7890,
+                                      "friends_count": 771,
+                                      "has_custom_timelines": false,
+                                      "is_translator": false,
+                                      "listed_count": 88,
+                                      "location": "",
+                                      "media_count": 3505,
+                                      "name": "Miss Go",
+                                      "normal_followers_count": 7890,
+                                      "pinned_tweet_ids_str": ["1718506123735736440"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/224265209/1439202738",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/630673879506116608/1G-PuaYe_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "miriamgracego",
+                                      "statuses_count": 38032,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/Cp3qRtKSoO",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722944,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4945,
+                                      "location": "Philippines",
+                                      "media_count": 245330,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722944,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028928,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1581917247773122561"],
+                            "editable_until_msecs": "1665995237000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://erased6644614_QyctI2jsZ5.com\" rel=\"nofollow\">erased6644614_QyctI2jsZ5</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Oct 17 07:57:17 +0000 2022",
+                            "conversation_id_str": "1581917247773122561",
+                            "display_text_range": [0, 280],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "rappler.com/nation/petitio…",
+                                  "expanded_url": "https://www.rappler.com/nation/petition-declare-unconstitutional-barangay-sk-elections-postponement/?utm_medium=Social&utm_source=Twitter#Echobox=1665992611-1",
+                                  "url": "https://t.co/MgdZA8cRlH",
+                                  "indices": [257, 280]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [125, 132],
+                                  "text": "PHVote"
+                                },
+                                {
+                                  "indices": [133, 142],
+                                  "text": "BSKE2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 6,
+                            "favorited": false,
+                            "full_text": "Lawyer Romulo Macalintal says only the Comelec, not Congress, has the authority to postpone the village and youth elections. #PHVote #BSKE2022                                                                                                               ... https://t.co/MgdZA8cRlH",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 1,
+                            "retweet_count": 4,
+                            "retweeted": false,
+                            "user_id_str": "330826792",
+                            "id_str": "1581917247773122561"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 125,
+                            "endIndex": 132
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACaWL1WAqdQDcKAAV2eRuEEY6QLAgABgAAAAEKAAepaA+qfRgLuAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1584860345394679809",
+                  "sortIndex": "1727507210658896052",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1584860345394679809",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo1MDIyODg3MTU=",
+                                "rest_id": "502288715",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": false,
+                                  "can_media_tag": false,
+                                  "created_at": "Sat Feb 25 00:28:39 +0000 2012",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Reporter, Malaya Business Insight || Sports is the toy department of human life. - Howard Cosell",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 28,
+                                  "followers_count": 605,
+                                  "friends_count": 199,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 13,
+                                  "location": "Philippines",
+                                  "media_count": 13133,
+                                  "name": "Gerard Naval",
+                                  "normal_followers_count": 605,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/502288715/1451516638",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478510004802289666/mNZUHhab_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "gerardnaval",
+                                  "statuses_count": 80152,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": ["1584860345394679809"],
+                            "editable_until_msecs": "1666696926000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Tue Oct 25 10:52:06 +0000 2022",
+                            "conversation_id_str": "1584860342404145154",
+                            "display_text_range": [0, 143],
+                            "entities": {
+                              "user_mentions": [
+                                {
+                                  "id_str": "293300646",
+                                  "name": "COMELEC",
+                                  "screen_name": "COMELEC",
+                                  "indices": [1, 9]
+                                },
+                                {
+                                  "id_str": "1243169430",
+                                  "name": "Malaya News",
+                                  "screen_name": "MalayaNews",
+                                  "indices": [132, 143]
+                                }
+                              ],
+                              "urls": [],
+                              "hashtags": [
+                                {
+                                  "indices": [123, 131],
+                                  "text": "NLE2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": ".@COMELEC Spox Laudiangco: A request can be made for the Commission en banc to order the further preservation of the data. #NLE2022 @MalayaNews",
+                            "in_reply_to_screen_name": "gerardnaval",
+                            "in_reply_to_status_id_str": "1584860342404145154",
+                            "in_reply_to_user_id_str": "502288715",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "502288715",
+                            "id_str": "1584860345394679809"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 123,
+                            "endIndex": 131
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAACAAAAwAAgoAAQAAAAAAAAABCgACaWL1WAqdQDcKAAV2eRuEEY6QLAgABgAAAAEKAAepaA+qfRgLuAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1581913770741616645",
+                  "sortIndex": "1727507210658896042",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1581913770741616645",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMTM0NjAxMzcw",
+                                "rest_id": "1134601370",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "can_dm": true,
+                                  "can_media_tag": false,
+                                  "created_at": "Wed Jan 30 16:50:11 +0000 2013",
+                                  "default_profile": false,
+                                  "default_profile_image": false,
+                                  "description": "Everything you need to know about the 2023 barangay and Sangguniang Kabataan elections | #PHVote #BSKE2023",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "rappler.com/2022-philippin…",
+                                          "expanded_url": "https://www.rappler.com/2022-philippine-elections",
+                                          "url": "https://t.co/Gu7BiQLEWH",
+                                          "indices": [0, 23]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 50,
+                                  "followers_count": 14102,
+                                  "friends_count": 13,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 43,
+                                  "location": "Philippines",
+                                  "media_count": 8251,
+                                  "name": "2023 barangay and Sangguniang Kabataan elections",
+                                  "normal_followers_count": 14102,
+                                  "pinned_tweet_ids_str": ["1718840177475686583"],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1134601370/1693381865",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378940194930495489/C4I_uUaV_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "phvote",
+                                  "statuses_count": 28159,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/Gu7BiQLEWH",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                }
+                              }
+                            }
+                          },
+                          "card": {
+                            "rest_id": "https://t.co/QmIP2NgkmM",
+                            "legacy": {
+                              "binding_values": [
+                                {
+                                  "key": "description",
+                                  "value": {
+                                    "string_value": "Lawyer Romulo Macalintal says only the Comelec, not Congress, has the authority to postpone the village and youth elections",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "domain",
+                                  "value": {
+                                    "string_value": "www.rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "site",
+                                  "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "330826792",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "creator",
+                                  "value": {
+                                    "type": "USER",
+                                    "user_value": {
+                                      "id_str": "224265209",
+                                      "path": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "key": "vanity_url",
+                                  "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "rappler.com",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "title",
+                                  "value": {
+                                    "string_value": "SC asked to declare as unconstitutional law postponing barangay, SK polls",
+                                    "type": "STRING"
+                                  }
+                                },
+                                {
+                                  "key": "card_url",
+                                  "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/QmIP2NgkmM",
+                                    "type": "STRING"
+                                  }
+                                }
+                              ],
+                              "card_platform": {
+                                "platform": {
+                                  "audience": {
+                                    "name": "production"
+                                  },
+                                  "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                  }
+                                }
+                              },
+                              "name": "summary_large_image",
+                              "url": "https://t.co/QmIP2NgkmM",
+                              "user_refs_results": [
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoyMjQyNjUyMDk=",
+                                    "rest_id": "224265209",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": false,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Wed Dec 08 15:32:35 +0000 2010",
+                                      "default_profile": true,
+                                      "default_profile_image": false,
+                                      "description": "Managing Editor, @rapplerdotcom. Campaigns, elections, local gov't.",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "https://www.rappler.com",
+                                              "url": "https://t.co/Cp3qRtKSoO",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 4761,
+                                      "followers_count": 7890,
+                                      "friends_count": 771,
+                                      "has_custom_timelines": false,
+                                      "is_translator": false,
+                                      "listed_count": 88,
+                                      "location": "",
+                                      "media_count": 3505,
+                                      "name": "Miss Go",
+                                      "normal_followers_count": 7890,
+                                      "pinned_tweet_ids_str": ["1718506123735736440"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/224265209/1439202738",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/630673879506116608/1G-PuaYe_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "miriamgracego",
+                                      "statuses_count": 38032,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/Cp3qRtKSoO",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    }
+                                  }
+                                },
+                                {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjozMzA4MjY3OTI=",
+                                    "rest_id": "330826792",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "can_dm": true,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Jul 07 06:34:10 +0000 2011",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Rappler is the Philippines' leading digital media company that's driven by uncompromising journalism, enabled by technology, & enriched by communities of action",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "rappler.com",
+                                              "expanded_url": "http://www.rappler.com",
+                                              "url": "https://t.co/81BJWWR4KN",
+                                              "indices": [0, 23]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 7799,
+                                      "followers_count": 3722944,
+                                      "friends_count": 431,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 4945,
+                                      "location": "Philippines",
+                                      "media_count": 245330,
+                                      "name": "Rappler",
+                                      "normal_followers_count": 3722944,
+                                      "pinned_tweet_ids_str": ["1701551287421284398"],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330826792/1698773206",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583252893368717313/wUCmGve8_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "rapplerdotcom",
+                                      "statuses_count": 1028928,
+                                      "translator_type": "regular",
+                                      "url": "https://t.co/81BJWWR4KN",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                      "rest_id": "1453298946147856390",
+                                      "professional_type": "Business",
+                                      "category": [
+                                        {
+                                          "id": 580,
+                                          "name": "Media & News Company",
+                                          "icon_name": "IconBriefcaseStroke"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "unmention_data": {},
+                          "unified_card": {
+                            "card_fetch_state": "NoCard"
+                          },
+                          "edit_control": {
+                            "edit_tweet_ids": ["1581913770741616645"],
+                            "editable_until_msecs": "1665994408000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Oct 17 07:43:28 +0000 2022",
+                            "conversation_id_str": "1581913770741616645",
+                            "display_text_range": [0, 167],
+                            "entities": {
+                              "user_mentions": [],
+                              "urls": [
+                                {
+                                  "display_url": "rappler.com/nation/petitio…",
+                                  "expanded_url": "https://www.rappler.com/nation/petition-declare-unconstitutional-barangay-sk-elections-postponement/",
+                                  "url": "https://t.co/QmIP2NgkmM",
+                                  "indices": [144, 167]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "indices": [125, 132],
+                                  "text": "PHVote"
+                                },
+                                {
+                                  "indices": [133, 142],
+                                  "text": "BSKE2022"
+                                }
+                              ],
+                              "symbols": []
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "Lawyer Romulo Macalintal says only the Comelec, not Congress, has the authority to postpone the village and youth elections. #PHVote #BSKE2022  https://t.co/QmIP2NgkmM",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1134601370",
+                            "id_str": "1581913770741616645"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 125,
+                            "endIndex": 132
+                          }
+                        ]
+                      }
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": ["1060665035"]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgACaWL1WAqdQDcKAAV2eRuEEY6QLAgABgAAAAEKAAepaA+qfRgLuAAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-9223372036854775807",
+              "entry": {
+                "entryId": "cursor-top-9223372036854775807",
+                "sortIndex": "9223372036854775807",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_lWp8ZAJxAKAAMX-Vanxj-x4AgABAAAAAELAAUAAAE8RW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJzViszUCsycHBnQUJYMExOV0RtaEFBRmZTSUQrWWFFQUlWOVdjU0N0VlFBQlgvREZLcG1sQURGZnhCZGtyYVlBQVdBVHVVZGRwZ0FCWDFkTTRtR2hBQUZmTkFVNUVVQUFJVitYRy9kbHFRQVJYN2EvNktHZ0FBRmY2V3BDbWFFQUFWL3MrV3ZKcHdBUllEMjlMaTJuQUFGZlFXTVhKYVVBVVY5NGErc2RWUUFSWCtqaFpSMmxBQkZmVm5hT2JVQUFBVi9vNFZuNXBnQWhYLzhLcGhHbkFBRmY4c1NtbGFZQUFWOTZ4RDFaVVFBaFg2VERhOUdwQUFGZ0lxMjd2YUVBRVdBcFVXalpwd0FSWUFWZlZDVlVBQUZmUVpXd0dVb0FFPQgABgAAAAAIAAcAAAABDAAICgABFfQWMXJaUAUAAAA",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAACCgACF_lWp8ZAJxAKAAMX-Vanxj-x4AgABAAAAAILAAUAAAE8RW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJzViszUCsycHBnQUJYMExOV0RtaEFBRmZTSUQrWWFFQUlWOVdjU0N0VlFBQlgvREZLcG1sQURGZnhCZGtyYVlBQVdBVHVVZGRwZ0FCWDFkTTRtR2hBQUZmTkFVNUVVQUFJVitYRy9kbHFRQVJYN2EvNktHZ0FBRmY2V3BDbWFFQUFWL3MrV3ZKcHdBUllEMjlMaTJuQUFGZlFXTVhKYVVBVVY5NGErc2RWUUFSWCtqaFpSMmxBQkZmVm5hT2JVQUFBVi9vNFZuNXBnQWhYLzhLcGhHbkFBRmY4c1NtbGFZQUFWOTZ4RDFaVVFBaFg2VERhOUdwQUFGZ0lxMjd2YUVBRVdBcFVXalpwd0FSWUFWZlZDVlVBQUZmUVpXd0dVb0FFPQgABgAAAAAIAAcAAAABDAAICgABFfQWMXJaUAUAAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ],
+          "responseObjects": {
+            "feedbackActions": [
+              {
+                "key": "1060665035",
+                "value": {
+                  "feedbackType": "GiveFeedback",
+                  "prompt": "This post's not helpful",
+                  "confirmation": "Thanks for offering your feedback. X is conducting research to improve search. Choose the option that best reflects your opinion.",
+                  "childKeys": ["628739688", "-2085265619"],
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "icon": "Frown",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_givefeedback"
+                  }
+                }
+              },
+              {
+                "key": "628739688",
+                "value": {
+                  "feedbackType": "NotRelevant",
+                  "prompt": "This post isn't relevant",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notrelevant"
+                  }
+                }
+              },
+              {
+                "key": "-2085265619",
+                "value": {
+                  "feedbackType": "NotCredible",
+                  "prompt": "This post isn't credible",
+                  "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                  "hasUndoAction": true,
+                  "confirmationDisplayType": "Inline",
+                  "clientEventInfo": {
+                    "action": "click",
+                    "component": "result",
+                    "element": "feedback_notcredible"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
